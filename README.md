@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Zalexanninev15/Zalexanninev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer of applications for Windows (if necessary, try it under Linux 😊). I know the C# programming language (a year and a half), use WinForms and consoles, learn C++, know a little about Bash scripts and used to do projects on DevelNext (it was a long time ago). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
-Here are some ideas to get you started:
++ 📫 How to reach me:
+  
+  :heavy_check_mark: Email: [maks.shabarchin@yandex.ru](mailto:maks.shabarchin@yandex.ru)
+  
+  :heavy_check_mark: Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
+  
+  :heavy_check_mark: Website: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
+  
+  :heavy_check_mark: 4PDA: [Show me](https://4pda.ru/forum/index.php?showuser=5330563)
+  
+  :heavy_check_mark: PlayGround.ru: [Show me](https://users.playground.ru/1944465)
+  
+  :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
+  
+[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Zalexanninev15)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=8&layout=compact&theme=radical)](https://github.com/Zalexanninev15)
