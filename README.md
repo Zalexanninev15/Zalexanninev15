@@ -4,7 +4,7 @@ Developer of applications for Windows (if necessary, try it under Linux 😊). I
 
 + 💰 How to support me:
 
-  :yellow_heart: QIWI: [qiwi.com/n/ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
+  :yellow_heart: QIWI: [ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
   
   :purple_heart: YooMoney: [410015106319420](https://yoomoney.ru/to/410015106319420)
   
