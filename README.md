@@ -2,8 +2,14 @@
 
 Developer of applications for Windows (if necessary, try it under Linux 😊). I know the C# programming language (a year and a half), use WinForms and consoles, learn C++, know a little about Bash scripts and used to do projects on DevelNext (it was a long time ago). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
-+ 📫 How to reach me:
++ 💰 How to support me:
+
+  :yellow_heart: QIWI: [qiwi.com/n/ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
   
+  :purple_heart: YooMoney: [410015106319420](https://yoomoney.ru/to/410015106319420)
+  
++ 📫 How to reach me:
+
   :heavy_check_mark: Email: [maks.shabarchin@yandex.ru](mailto:maks.shabarchin@yandex.ru)
   
   :heavy_check_mark: Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
@@ -16,6 +22,8 @@ Developer of applications for Windows (if necessary, try it under Linux 😊). I
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
   
++ 📈 Statistics:
+
 [![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Zalexanninev15)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=8&layout=compact&theme=radical)](https://github.com/Zalexanninev15)
