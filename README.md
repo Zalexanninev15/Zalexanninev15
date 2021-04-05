@@ -16,9 +16,9 @@ Developer of applications for Windows (if necessary, try it under Linux 😊). I
   
   :heavy_check_mark: Website: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
   
-  :heavy_check_mark: 4PDA: [Show me](https://4pda.ru/forum/index.php?showuser=5330563)
+  :heavy_check_mark: 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
   
-  :heavy_check_mark: PlayGround.ru: [Show me](https://users.playground.ru/1944465)
+  :heavy_check_mark: PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
 
