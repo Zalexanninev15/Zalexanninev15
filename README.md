@@ -2,12 +2,6 @@
 
 Developer of applications for Windows (if necessary, try it under Linux 😊). I know the C# programming language (a year and a half), use WinForms and consoles, learn C++, know a little about Bash scripts and used to do projects on DevelNext (it was a long time ago). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
-+ 📈 Statistics:
-
-[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=8&layout=compact&theme=react)](https://github.com/Zalexanninev15)
-
 + 💰 How to support me:
 
   :yellow_heart: QIWI: [ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
@@ -27,3 +21,9 @@ Developer of applications for Windows (if necessary, try it under Linux 😊). I
   :heavy_check_mark: PlayGround.ru: [Show me](https://users.playground.ru/1944465)
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
+
++ 📈 Statistics:
+
+[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=8&layout=compact&theme=react)](https://github.com/Zalexanninev15)
