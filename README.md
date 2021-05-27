@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Developer of applications for Windows (if necessary, try it under Linux 😊). I know the C# programming language (a year and a half), use WinForms and consoles, learn C++, Python, MATLAB, Scilab, PHP, Assembler, Bash (.sh in Unix) & Batch (.bat in Windows) scripts. Previously coded on Mathcad, JPHP (DevelNext), PureBasic, PHP (DevelStudio), and Pascal. I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
+Developer of applications for Windows (if necessary, try it under Linux 😊). I know the C# programming language (a year and a half), use WinForms and consoles, learn C++, Python, MATLAB, Scilab, PHP, Assembler, Bash/Shell (.sh in Unix) & Batch (.bat in Windows) scripts. Previously coded on Mathcad, JPHP (DevelNext), PureBasic, PHP (DevelStudio), and Pascal. I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
 + 💰 How to support me:
 
