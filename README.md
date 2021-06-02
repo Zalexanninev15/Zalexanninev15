@@ -4,7 +4,7 @@ Developer of applications for Windows (if necessary, try it under Linux 😊). I
 
 + 😸 Nickname:
 
-  :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/Zalexanninev15)
+  :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
 + 💰 How to support me:
 
