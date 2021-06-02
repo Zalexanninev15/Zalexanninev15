@@ -2,6 +2,10 @@
 
 Developer of applications for Windows (if necessary, try it under Linux 😊). I know C# (a year and a half) and Markdown, use WinForms and Console, learn C++, Python, MATLAB, Scilab, PHP, Assembler, Bash/Shell (.sh in Unix) & Batch (.bat in Windows) scripts. Previously coded on Mathcad, JPHP (DevelNext), PureBasic, Delphi (7), SFX-Macros (RU), PHP (DevelStudio), Pascal and LogoWorlds (RU). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
++ 😸 Nickname:
+
+  :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/Zalexanninev15)
+
 + 💰 How to support me:
 
   :yellow_heart: QIWI: [ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
