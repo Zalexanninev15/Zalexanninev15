@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi dear coder 👋
 
-Developer of applications for Windows (if necessary, try it under Linux 😊). I know C# (a year and a half) and Markdown, use WinForms and Console, learn C++, Python, MATLAB, Scilab, PHP, Assembler (ASM Visual/FASM), Bash/Shell (.sh in Unix) & Batch (.bat in Windows) scripts. Previously coded on Mathcad, JPHP (DevelNext), PureBasic, Delphi (7), SFX-Macros (RU), PHP (DevelStudio), Pascal (Turbo Pascal/Borland Pascal) and LogoWorlds (RU). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
+I am a developer of applications for Windows (if necessary, try it under Linux 😊). I know C# (a year and a half) and Markdown, use WinForms and Console, learn C++, Python, MATLAB, Scilab, PHP, Assembler (ASM Visual/FASM), Bash/Shell (.sh in Unix) & Batch (.bat in Windows) scripts. Previously coded on Mathcad, JPHP (DevelNext), PureBasic, Delphi (7), SFX-Macros (RU), PHP (DevelStudio), Pascal (Turbo Pascal/Borland Pascal) and LogoWorlds (RU). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
 + 😸 Nickname:
 
