@@ -8,11 +8,7 @@ I am a developer of applications for Windows (if necessary, try it under Linux �
 
 + 💰 How to support me:
 
-  :orange_heart: Boosty: [Zalexanninev15](https://boosty.to/maxik-zalexanninev15)
-
-  :yellow_heart: QIWI: [ZALEXANNINEV15](https://qiwi.com/n/ZALEXANNINEV15)
-  
-  :purple_heart: YooMoney: [410015106319420](https://yoomoney.ru/to/410015106319420)
+  :blue_heart: Boosty: [Buy Me a Coffee ☕](https://zalexanninev15.jimdofree.com/buy-me-a-coffee/)
   
 + 📫 How to reach me:
 
