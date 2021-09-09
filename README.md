@@ -8,7 +8,7 @@ I am a developer of applications for Windows (if necessary, try it under Linux �
 
 + 💰 How to support me:
 
-  :blue_heart: Boosty: [Buy Me a Coffee ☕](https://zalexanninev15.jimdofree.com/buy-me-a-coffee/)
+  🤠 [Buy Me a Coffee ☕](https://zalexanninev15.jimdofree.com/buy-me-a-coffee/)
   
 + 📫 How to reach me:
 
