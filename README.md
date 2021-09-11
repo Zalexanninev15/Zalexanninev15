@@ -6,9 +6,9 @@ I am a developer of applications for Windows (if necessary, try it under Linux a
 
   :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
-+ 💰 How to support me:
++ 🤠 How to support me:
 
-  🤠 [Buy Me a Coffee ☕](https://zalexanninev15.jimdofree.com/buy-me-a-coffee/)
+  ☕ [Buy Me a Coffee](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
   
 + 📫 How to reach me:
 
