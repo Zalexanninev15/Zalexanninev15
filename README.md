@@ -30,7 +30,7 @@
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
 
-+ 🔥 Tools: Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), Assembler (ASM Visual), DevelStudio (PHP, not for all, only for apps)
++ 🔥 Tools: Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, JetBrains PyCharm (Python), JetBrains Rider (C#, .NET 5), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), Assembler (ASM Visual), DevelStudio (PHP, not for all, only for apps)
 
 + 📈 Statistics:
 
