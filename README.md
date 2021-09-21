@@ -18,24 +18,19 @@
   
   :heavy_check_mark: Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
   
-    :heavy_check_mark: Website: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
+  :heavy_check_mark: Website: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
   
   :heavy_check_mark: YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
-
-
-
   
-
   :heavy_check_mark: 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
   :heavy_check_mark: Boosty.to: [Zalexanninev15](https://boosty.to/maxik-zalexanninev15)
 
-  
   :heavy_check_mark: PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
 
-+ 🔥 Tools: Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, JetBrains PyCharm (Python), JetBrains Rider (C#, .NET 5), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), Assembler (ASM Visual), DevelStudio (PHP, not for all, only for apps)
++ 🔥 Tools: Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, JetBrains PyCharm (Python), JetBrains Rider (C#, .NET 5), Mark Text (Markdown), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), Assembler (ASM Visual), DevelStudio (PHP, not for all, only for apps)
 
 + 📈 Statistics:
 
