@@ -1,18 +1,18 @@
-### Hi cool coder 🤘
+# Hi cool coder 🤘
+
+
+
+## 😸 Nickname
+
+  :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
+
+## ♌ About me
 
 - My path as a developer began in 2013. In the programming group, I started with LogoWorlds (RU), then studied Pascal (on MS-DOS!!!). The most interesting process was creating my own game, but I was more interested in creating an engine, so I didn't finish the project. This is how I finished my training in the circle (2015). Until about 2018, I created projects for myself in Pascal and PHP (DevelStudio), until in 2019 I discovered a wonderful C# language. It was incredible, I hadn't even thought about another language before, which was a huge mistake. And I studied this language to create a utility for flash of the smartphone ZTE Blade V9 Vita - [BV9Vita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=88382383). I liked the development so much that I decided to significantly develop the project to [NineVita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=91409816). And off it went... New projects and new discoveries. Now, in 2021, I already know C# quite well (well, for myself), I am actively studying Python, I understand Bash and Batch, I comprehend the complexities of C++, I write scripts in PHP and do many other interesting things... even with an Assembler!
 
 - I am a developer of applications for Windows (if necessary, try it under Linux and Web 😊). Know C# (a year and a half) and Markdown, use WinForms and Console, learn Python, WPF & UWP, C++, MATLAB, Scilab, PHP, HTML, Bash & Batch scripts, Assembler. Previously coded on Mathcad, JPHP, PureBasic, Delphi, SFX-Macros (RU), PHP, Pascal and LogoWorlds (RU). I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
-
-+ 😸 Nickname:
-
-  :bust_in_silhouette: [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
-
-+ 🤠 How to support me:
-
-  ☕ [Buy Me a Coffee](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
   
-+ 📫 How to reach me:
+## 📫 How to reach me
 
   :heavy_check_mark: Email: [maks.shabarchin@yandex.ru](mailto:maks.shabarchin@yandex.ru)
   
@@ -30,8 +30,14 @@
   
   :heavy_check_mark: itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
 
-+ 🔥 Tools: Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, JetBrains PyCharm (Python), JetBrains Rider (C#, .NET 5), Mark Text (Markdown), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), ASM Visual (Assembler), DevelStudio (PHP, not for all, only for apps)
+## 🔥 I use tools
 
-+ 📈 Statistics:
+Visual Studio 2017-2019 (C#), SharpDevelop (C#), Thonny (Python), Sublime Text, Notepad++, JetBrains PyCharm (Python), JetBrains Rider (C#, .NET 5), Mark Text (Markdown), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal (Pascal), Delphi 7 (Delphi), ASM Visual (Assembler), DevelStudio (PHP, not for all, only for apps)
+
+## 📈 Statistics
 
 [![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=6&layout=compact&theme=react)](https://github.com/Zalexanninev15)
+
+## 🤠 How to support me
+
+☕ [Buy Me a Coffee](https://zalexanninev15.jimdofree.com/buy-me-a-coffee) | 🧧 [Donate](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
