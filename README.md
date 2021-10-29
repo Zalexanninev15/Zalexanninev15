@@ -32,7 +32,7 @@
 
 ## 🔥 I use tools
 
-Windows 8.1-10 (System), Visual Studio 2017-2019 (C# - .NET Framework 2.0-4.8, C++), SharpDevelop (C# - .NET Framework 3.5-4.5), JetBrains Rider (C# - .NET 5), Thonny (Python), JetBrains PyCharm (Python), Sublime Text (for all), Notepad++ (for all), Mark Text (Markdown), Typora (Markdown), DevelNext (JPHP), PureBasic IDE (PureBasic), Dev-C++ (C++), Turbo Pascal 7.0 (Pascal), Delphi 7 (Delphi), ASM Visual (Assembler), DevelStudio (PHP, not for all, only for apps)
+**Windows 8.1-10** (System), **Visual Studio 2017-2019** (C# - **.NET Framework 2.0-4.8**, C++), **SharpDevelop** (C# - **.NET Framework 3.5-4.5**), **JetBrains Rider** (C# - **.NET 5**), **Thonny** (Python), **JetBrains PyCharm** (Python), **Sublime Text** (for all), **Notepad++** (for all), **Mark Text** (Markdown), **Typora** (Markdown), **DevelNext** (JPHP), **PureBasic IDE** (PureBasic), **Dev-C++** (C++), **Turbo Pascal 7.0** (Pascal), **Delphi 7** (Delphi), **ASM Visual** (Assembler), **DevelStudio** (PHP, not for all, only for apps)
 
 ## 📈 Statistics
 
