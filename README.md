@@ -11,7 +11,7 @@
   
 ## 📫 How to reach me
 
-  ✔️ My site (old): [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
+  ✔️ My site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
 
   ✔️ Email: [maks.shabarchin@yandex.ru](mailto:maks.shabarchin@yandex.ru)
   
