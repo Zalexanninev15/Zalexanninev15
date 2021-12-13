@@ -21,8 +21,6 @@
   
   ✔️ 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
-  ✔️ Boosty.to: [Zalexanninev15](https://boosty.to/maxik-zalexanninev15)
-
   ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
   ✔️ itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
