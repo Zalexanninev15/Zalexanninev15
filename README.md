@@ -13,7 +13,7 @@
 
   ✔️ My site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
 
-  ✔️ Email: [maks.shabarchin@yandex.ru](mailto:maks.shabarchin@yandex.ru)
+  ✔️ Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
   ✔️ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
   
