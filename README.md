@@ -31,7 +31,7 @@
 
 ## 📈 Statistics
 
-[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=6&layout=compact&theme=react)](https://github.com/Zalexanninev15)
+[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=10&layout=compact&theme=react)](https://github.com/Zalexanninev15)
 
 ## 🤠 How to support me
 
