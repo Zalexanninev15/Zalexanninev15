@@ -18,19 +18,19 @@
   
   ✔️ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
   
-  ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
-  
   ✔️ 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
   ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
   ✔️ itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
+  
+  ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
 
 ## 🔥 I use tools
 
 **Windows 11** (System), **Visual Studio 2022** (C# - **.NET Framework 4.8 & .NET 6**), **Hugo** (Markdown), **Thonny** (Python), **JetBrains PyCharm** (Python), **Sublime Text** and **Notepad++** (for all), **Mark Text** (Markdown), **ASM Visual** (Assembler)
 
-## 📈 Statistics
+## 📈 Statistics ([I want to see more](https://coderstats.net/github/#zalexanninev15))
 
 [![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=12&layout=compact&theme=react&hide=HTML,JavaScript,CSS,TeX,PostScript,M4,Makefile,C)](https://github.com/Zalexanninev15)
 
