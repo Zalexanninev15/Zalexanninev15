@@ -30,16 +30,12 @@
   
   ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
 
+  ☕ Buy Me a Coffee: [Donate](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+
 ## 🔥 I use tools
 
 **Windows 11** (System), **Visual Studio 2022** (C# - **.NET Framework 4.8 & .NET 6**), **Hugo** (Markdown), **Thonny** (Python), **JetBrains PyCharm** (Python), **Sublime Text** and **Notepad++** (for all), **Mark Text** (Markdown), **ASM Visual** (Assembler)
 
 ## 📈 Statistics ([I want to see more](https://coderstats.net/github/#zalexanninev15))
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zalexanninev15&theme=react&date_format=j%20M%5B%20Y%5D&layout=compact"></p>
-
-[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&layout=compact&include_all_comments=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C)](https://github.com/Zalexanninev15)
-
-## 🤠 How to support me
-
-☕ [Buy Me a Coffee / Donate](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Zalexanninev15&theme=react&date_format=j%20M%5B%20Y%5D&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&layout=compact&include_all_comments=true&theme=react"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C"></p>
