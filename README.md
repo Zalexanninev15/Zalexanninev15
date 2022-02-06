@@ -36,9 +36,9 @@
 
 ## 📈 Statistics ([I want to see more](https://coderstats.net/github/#zalexanninev15))
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zalexanninev15&theme=react&date_format=j%20M%5B%20Y%5D"></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zalexanninev15&theme=react&date_format=j%20M%5B%20Y%5D&layout=compact"></div>
 
-[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C)](https://github.com/Zalexanninev15)
+[![Zalexanninev15's github stats](https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&layout=compact&include_all_comments=true&theme=react)](https://github.com/Zalexanninev15) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C)](https://github.com/Zalexanninev15)
 
 ## 🤠 How to support me
 
