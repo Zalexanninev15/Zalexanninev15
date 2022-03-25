@@ -20,4 +20,4 @@ jobs:
         hide-keys: joined, mostStarred, mostForked, followers, following, private
         max-languages: 100
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.token_sl}}
