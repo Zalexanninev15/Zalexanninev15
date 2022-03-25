@@ -36,7 +36,7 @@
 
 **Windows 8.1+** (System), **Visual Studio 2022** (C# - **.NET Framework 4.5+ & .NET 5+**), **Thonny** (Python), **JetBrains PyCharm** (Python), **VSCodium** and **Notepad++** (for all), **ASM Visual** (Assembler)
 
-## 📈 Statistics ([I want to see more](https://coderstats.net/github/#zalexanninev15))
+## 📈 Statistics
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&layout=compact&include_all_comments=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C"></p>
