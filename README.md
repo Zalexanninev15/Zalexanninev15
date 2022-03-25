@@ -38,5 +38,4 @@
 
 ## 📈 Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Zalexanninev15&show_icons=true&layout=compact&include_all_comments=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalexanninev15&langs_count=14&layout=compact&theme=react&hide=TeX,PostScript,M4,Makefile,C"></p>
+![My user statistics](images/userstats.svg)
