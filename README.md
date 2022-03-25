@@ -34,7 +34,7 @@
 
 ## 🔥 I use tools
 
-**Windows 11** (System), **Visual Studio 2022** (C# - **.NET Framework 4.8 & .NET 6**), **Hugo** (Markdown), **Thonny** (Python), **JetBrains PyCharm** (Python), **Sublime Text** and **Notepad++** (for all), **Mark Text** (Markdown), **ASM Visual** (Assembler)
+**Windows 8.1+** (System), **Visual Studio 2022** (C# - **.NET Framework 4.5+ & .NET 5+**), **Thonny** (Python), **JetBrains PyCharm** (Python), **VSCodium** and **Notepad++** (for all), **ASM Visual** (Assembler)
 
 ## 📈 Statistics ([I want to see more](https://coderstats.net/github/#zalexanninev15))
 
