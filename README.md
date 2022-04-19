@@ -26,6 +26,8 @@
 
   ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
+  ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
+
   ✔️ itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
   
   ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
