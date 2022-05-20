@@ -12,7 +12,7 @@
 
 ## 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=algolia&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)](https://github.com/Zalexanninev15/github-profile-trophy)
 
 ## 📫 How to reach me
 
