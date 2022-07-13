@@ -36,7 +36,7 @@
 
 ## 🔥 I use tools
 
-**Windows 11** (System), Windows 10 (System for tests), **Visual Studio 2022** (C# - **.NET Framework 4.5+ & .NET 5+**), **JetBrains PyCharm** (Python), **GitHub Desktop** (work with GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
+**Windows 11** (System), Windows 10 (System for tests), **Visual Studio 2022** (C# - **.NET Framework 4.5+ & .NET 5+**), **JetBrains PyCharm** (Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
