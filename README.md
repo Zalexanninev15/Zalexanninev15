@@ -24,6 +24,8 @@
   
   ✔️ 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
+  ✔️ Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
+
   ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
   
   ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
@@ -32,7 +34,7 @@
   
   ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
 
-  ☕ Buy Me a Coffee: [Donate](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+  ☕ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
 ## 🔥 I use tools
 
