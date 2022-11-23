@@ -33,8 +33,6 @@
   ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
 
   ✔️ itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
-  
-  ✔️ YouTube: [Zalexanninev15](https://youtube.com/channel/UCTzLPaG_Sdb58FMntgPauyg)
 
   ☕ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
