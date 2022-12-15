@@ -32,7 +32,7 @@
   
   ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
 
-  ✔️ itch.io: [zalexanninev15.itch.io](https://zalexanninev15.itch.io)
+  ✔️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
 
   ☕ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
