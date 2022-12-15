@@ -26,13 +26,15 @@
 
   ✔️ Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
 
+  ✔️ Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
+
   ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
+
+  ✔️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
 
   ✔️ Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
   
   ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
-
-  ✔️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
 
   ☕ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
