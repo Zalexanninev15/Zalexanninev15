@@ -40,12 +40,14 @@
 
 ## 🔥 I use tools
 
-![](https://img.shields.io/badge/Windows%2011-1C2030?style=for-the-badge&logo=microsoft&logoColor=#75B6E7)
+[![](https://img.shields.io/badge/Windows_11-1C2030?style=for-the-badge&logo=microsoft&logoColor=#75B6E7)](https://www.microsoft.com/en-us/software-download/windows11)
 ![](https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE)
-![](https://img.shields.io/badge/IntelliJ_IDEA-473EA3?style=for-the-badge&logo=intellijidea&logoColor=#FE2857)
+![](https://img.shields.io/badge/IntelliJ_IDEA-F54448?style=for-the-badge&logo=intellijidea&logoColor=#FE2857)
+![](https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=v&logoColor=#8661C5)
 ![](https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786)
+![](https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 
-**Windows 11** (Main system), **Windows 10** (System for tests), **Visual Studio 2022** (C# - **.NET 7**), **JetBrains IntelliJ IDEA** (Rust & Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
+**Windows 11** (Main system), **Visual Studio 2022** (C# - **.NET 7**), **JetBrains IntelliJ IDEA** (Rust & Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
