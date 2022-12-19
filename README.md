@@ -44,6 +44,9 @@
   <a href="https://www.microsoft.com/en-us/software-download/windows11">
         <img src="https://img.shields.io/badge/Windows_11-1C2030?style=for-the-badge&logo=microsoft&logoColor=#75B6E7" />
   </a>
+  <a href="https://vivaldi.com">
+        <img src="https://img.shields.io/badge/Vivaldi-262847?style=for-the-badge&logo=vivaldi&logoColor=#4C70F0" />
+  </a>
   <a href="https://www.jetbrains.com/idea">
         <img src="https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE" />
   </a>
@@ -62,7 +65,7 @@
   <p>
 </div>
 
-**Windows 11** (Main system), **Visual Studio 2022** (C# - **.NET 7**), **JetBrains IntelliJ IDEA** (Rust & Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
+**Windows 11** (Main system), **Vivaldi** (Main browser), **Visual Studio 2022** (C# - **.NET 7**), **JetBrains IntelliJ IDEA** (Rust & Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
