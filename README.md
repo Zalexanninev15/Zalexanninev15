@@ -41,8 +41,8 @@
 ## 🔥 I use tools
 
 [![](https://img.shields.io/badge/Windows_11-1C2030?style=for-the-badge&logo=microsoft&logoColor=#75B6E7)](https://www.microsoft.com/en-us/software-download/windows11)
-![](https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE)
-![](https://img.shields.io/badge/IntelliJ_IDEA-F54448?style=for-the-badge&logo=intellijidea&logoColor=#FE2857)
+[![](https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE)](https://vscodium.com)
+[![](https://img.shields.io/badge/IntelliJ_IDEA-F54448?style=for-the-badge&logo=intellijidea&logoColor=#FE2857)](https://www.jetbrains.com/idea/)
 ![](https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=v&logoColor=#8661C5)
 ![](https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786)
 ![](https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black)
