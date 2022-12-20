@@ -15,7 +15,7 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
-        colors: dark-dimmed
+        colors: dark-tritanopia
         include-title: false
         max-languages: 100
       env:
