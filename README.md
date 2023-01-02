@@ -10,6 +10,8 @@
 
 - I am a developer of applications for Windows (if necessary, try it under Linux and Web 😊). Know **C#** (2 years) and **Markdown**, use **WinForms** & **Console** and **Python** & **PHP** & **Bash** & **Batch** for scripts. Learn: **Rust**, **HTML**, **CSS**, **JavaScript**. Previously coded on **Go**, **Mathcad**, **MATLAB**, **Scilab**, **C++**, **JPHP (DevelNext)**, **Assembler**, **PureBasic**, **Delphi (7)**, **PHP (DevelStudio)**, **SFX-Macros (RU)**, **Pascal (Turbo Pascal)** and **LogoWorlds (RU)**. I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
+- At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://ttttt.me/pingvinusfun), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare.
+
 ## 🏆 Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=algolia&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)](https://github.com/Zalexanninev15/github-profile-trophy)
@@ -43,23 +45,23 @@
 ## 🔥 I use tools
 
 <div align="center">
-  <a href="https://www.microsoft.com/en-us/software-download/windows11">
-        <img src="https://img.shields.io/badge/Windows_11-1C2030?style=for-the-badge&logo=microsoft&logoColor=#75B6E7" />
+  <a href="https://manjaro.org">
+        <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
   <a href="https://vivaldi.com">
         <img src="https://img.shields.io/badge/Vivaldi-262847?style=for-the-badge&logo=vivaldi&logoColor=#4C70F0" />
   </a>
-  <a href="https://www.jetbrains.com/idea">
+  <a href="https://www.jetbrains.com/pycharm">
         <img src="https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE" />
   </a>
-  <a href="https://www.jetbrains.com/idea">
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-F54448?style=for-the-badge&logo=intellijidea&logoColor=#FE2857" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/vs/community">
-        <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=v&logoColor=#8661C5" />
+  <a href="https://www.jetbrains.com/pycharm">
+        <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
   </a>
   <a href="https://desktop.github.com">
         <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/vs/community">
+        <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=v&logoColor=#8661C5" />
   </a>
   <a href="https://notepad-plus-plus.org">
         <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
@@ -67,7 +69,7 @@
   <p>
 </div>
 
-**Windows 11** (Main system), **Vivaldi** (Main browser), **Visual Studio 2022** (C# - **.NET 7**), **JetBrains IntelliJ IDEA** (Rust & Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git). For all and web: **VSCodium** and **Notepad++**. And also **TCPU** (Total Commader PowerUser) for of all my needs
+**Manjaro Linux with KDE** (Main system), **Vivaldi** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
