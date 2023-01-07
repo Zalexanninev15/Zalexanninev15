@@ -18,29 +18,31 @@
 
 ## 📫 How to reach me
 
-  ✔️ My site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
+  🌐 My site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com)
 
-  ✔️ Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
+  📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
-  ✔️ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
+  ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
+
+  📰 Telegram channels: SOON!
   
-  ✔️ 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
+  📱 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
-  ✔️ Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
+  🏔 Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
 
-  ✔️ Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
+  📝 Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
   
-  ✔️ Pingvinus: [Morgan](https://pingvinus.ru/user/morgan)
+  🐧 Pingvinus: [Morgan](https://pingvinus.ru/user/morgan)
 
-  ✔️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
+  🎮 PlayGround.ru: [1944465](https://users.playground.ru/1944465)
 
-  ✔️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
+  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
 
-  ✔️ Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
+  😇 Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
   
-  ✔️ Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
+  😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
 
-  ☕ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
 ## 🔥 I use tools
 
