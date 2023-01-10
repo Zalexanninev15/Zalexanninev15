@@ -24,7 +24,7 @@
   
   ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
 
-  📰 Telegram channels: SOON!
+  📰 Telegram channels (RU): [Гнездо программиста](https://ttttt.me/Zalexanninev15_News), [PingvinusFun](https://ttttt.me/pingvinusfun), [Shark Remote / Windows in Telegram](https://ttttt.me/NewsWiT)
   
   📱 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
