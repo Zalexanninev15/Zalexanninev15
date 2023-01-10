@@ -50,8 +50,8 @@
   <a href="https://manjaro.org">
         <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
-  <a href="https://vivaldi.com">
-        <img src="https://img.shields.io/badge/Vivaldi-262847?style=for-the-badge&logo=vivaldi&logoColor=#4C70F0" />
+  <a href="https://www.waterfox.net">
+        <img src="https://img.shields.io/badge/Waterfox-2B2A33?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAgVJREFUKJGtkjlrVGEYhc/73mUya0aDE1BkQqoIgqJEsAmIqaJ22oixENfCH2A3xELQgILruKC4NSJEUimoWFhoQsRCm2AIMgxjnMWZe+fOnXvv970WLgSUYOHTnvM0hwP8b646krvdlmEAmKyq02caMrA8N/8mjVdlQ1nkdVIjW3Blc8nRju0jWlEsiPDbJRxpd2EmmCZ3rsbnbUm+NkbUWt4jzM/HYm7v8cjjxZGNmYpp8FlxjWJfHPOH0nIqLrKbFQTEo1MXnaxtyaCdyhTNmJs5qbt0Dj70zMfuvng+9bQ/g+eDhrxJQfKOK7CYbj6+1fJZMCUKHDSbPaZuUUN3AfHBXj3Y626n/X1Ndf+9pnyhLghaemHHkHWs5qo7cZO4qwgMNAjT5QT71qKEWCMhBf1b0gfT6+2H2tccVjVqn0LJGnR402z7Sg9zzGTUEUV5xp61nnboungAfNhGgu9FSjioazilCJQxKVxlFj2FWCvU+BboG48KOZcBAKFcRoBucp0NTrAV1BQUYc5vygwsRidtmJUBGx1BEDJd+rHqT3Ifgrtk0zgE0A0t3MujzQUoNvASGSIiwAj0g9aIfQAA+JcoHs5HS0rCUgQdyfSXIeuFP2a9Up5+ossKuqYk8nHhjwN8Hbbf9T5rH4XmrZapJn4XwvCEUkZFBHOdXfHZFV76b3wHO3L82eyMwIcAAAAASUVORK5CYII=&logoColor=#2E2E2E" />
   </a>
   <a href="https://www.jetbrains.com/pycharm">
         <img src="https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE" />
@@ -71,7 +71,7 @@
   <p>
 </div>
 
-**Manjaro Linux with KDE** (Main system), **Vivaldi** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
+**Manjaro Linux with KDE** (Main system), **Waterfox G5** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
