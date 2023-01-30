@@ -24,6 +24,8 @@
   
   ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
 
+  🎁 Boosty.to: [@max_premium](https://boosty.to/max_premium)
+
   📰 Telegram channels (RU): [Гнездо программиста](https://ttttt.me/Zalexanninev15_News), [PingvinusFun](https://ttttt.me/pingvinusfun), [Shark Remote / Windows in Telegram](https://ttttt.me/NewsWiT)
   
   📱 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
@@ -42,7 +44,7 @@
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
 
-  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee) (*there are several payment methods available*)
 
 ## 🔥 I use tools
 
