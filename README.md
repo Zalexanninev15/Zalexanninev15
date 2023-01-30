@@ -71,7 +71,7 @@
   <p>
 </div>
 
-**Manjaro Linux with KDE** (Main system), **Waterfox G5** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
+**Manjaro Linux with KDE** (Main system), **Waterfox G5** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop ([AUR](https://aur.archlinux.org/packages/github-desktop))** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Kate**, **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
