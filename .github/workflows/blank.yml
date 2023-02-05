@@ -17,6 +17,9 @@ jobs:
       with:
         colors: dark-tritanopia
         include-title: false
-        max-languages: 100
+        top-icon: github
+        max-languages: auto
+        language-animation-speed: 20
+        small-title: true
       env:
         GITHUB_TOKEN: ${{secrets.token_sl}}
