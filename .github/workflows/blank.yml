@@ -18,7 +18,7 @@ jobs:
         colors: dark-tritanopia
         include-title: false
         top-icon: github
-        max-languages: auto
+        max-languages: 15
         language-animation-speed: 20
         small-title: true
       env:
