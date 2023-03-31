@@ -55,20 +55,20 @@
   <a href="https://manjaro.org">
         <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
-  <a href="https://www.waterfox.net">
-        <img src="https://img.shields.io/badge/Waterfox-2B2A33?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAgVJREFUKJGtkjlrVGEYhc/73mUya0aDE1BkQqoIgqJEsAmIqaJ22oixENfCH2A3xELQgILruKC4NSJEUimoWFhoQsRCm2AIMgxjnMWZe+fOnXvv970WLgSUYOHTnvM0hwP8b646krvdlmEAmKyq02caMrA8N/8mjVdlQ1nkdVIjW3Blc8nRju0jWlEsiPDbJRxpd2EmmCZ3rsbnbUm+NkbUWt4jzM/HYm7v8cjjxZGNmYpp8FlxjWJfHPOH0nIqLrKbFQTEo1MXnaxtyaCdyhTNmJs5qbt0Dj70zMfuvng+9bQ/g+eDhrxJQfKOK7CYbj6+1fJZMCUKHDSbPaZuUUN3AfHBXj3Y626n/X1Ndf+9pnyhLghaemHHkHWs5qo7cZO4qwgMNAjT5QT71qKEWCMhBf1b0gfT6+2H2tccVjVqn0LJGnR402z7Sg9zzGTUEUV5xp61nnboungAfNhGgu9FSjioazilCJQxKVxlFj2FWCvU+BboG48KOZcBAKFcRoBucp0NTrAV1BQUYc5vygwsRidtmJUBGx1BEDJd+rHqT3Ifgrtk0zgE0A0t3MujzQUoNvASGSIiwAj0g9aIfQAA+JcoHs5HS0rCUgQdyfSXIeuFP2a9Up5+ossKuqYk8nHhjwN8Hbbf9T5rH4XmrZapJn4XwvCEUkZFBHOdXfHZFV76b3wHO3L82eyMwIcAAAAASUVORK5CYII=&logoColor=#2E2E2E" />
+  <a href="https://brave.com">
+        <img src="https://img.shields.io/badge/brave-%23FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" />
   </a>
-  <a href="https://www.jetbrains.com/pycharm">
-        <img src="https://img.shields.io/badge/VS_Codium-2E2E2E?style=for-the-badge&logo=vscodium&logoColor=#3B98EE" />
+  <a href="https://code.visualstudio.com">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
   <a href="https://www.jetbrains.com/pycharm">
         <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
   </a>
   <a href="https://desktop.github.com">
-        <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
+        <img src="https://img.shields.io/badge/GitHub_Desktop-#24292E?style=for-the-badge&logo=github&logoColor=#692786" />
   </a>
   <a href="https://visualstudio.microsoft.com/vs/community">
-        <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=v&logoColor=#8661C5" />
+        <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visualstudio&logoColor=#8661C5" />
   </a>
   <a href="https://notepad-plus-plus.org">
         <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
@@ -76,7 +76,7 @@
   <p>
 </div>
 
-**Manjaro Linux with KDE** (Main system), **Waterfox G5** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop ([AUR](https://aur.archlinux.org/packages/github-desktop))** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Kate**, **VSCodium** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
+**Manjaro Linux with KDE** (Main system), **Brave** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop ([AUR](https://aur.archlinux.org/packages/github-desktop))** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Kate**, **Visual Studio Code** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
