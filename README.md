@@ -65,7 +65,7 @@
         <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
   </a>
   <a href="https://desktop.github.com">
-        <img src="https://img.shields.io/badge/GitHub_Desktop-#24292E?style=for-the-badge&logo=github&logoColor=#692786" />
+        <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
   </a>
   <a href="https://visualstudio.microsoft.com/vs/community">
         <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visualstudio&logoColor=#8661C5" />
