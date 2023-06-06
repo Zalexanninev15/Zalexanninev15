@@ -24,7 +24,7 @@
   
   ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
 
-  🎁 Boosty.to: [@max_premium](https://boosty.to/max_premium)
+  🎁 Boosty.to: [@max_premium](https://clcr.me/zalexanninev15_boosty)
 
   📰 Telegram channels (RU): 
   - [Гнездо программиста](https://ttttt.me/Zalexanninev15_News) — news channel and blog 
