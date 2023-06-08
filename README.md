@@ -52,7 +52,7 @@
 ## 🔥 I use tools
 
 <div align="center">
-  <a href=""https://nobaraproject.org/>
+  <a href="https://nobaraproject.org"/>
         <img src="https://img.shields.io/badge/Fedora_(Nobara_Project)-78AEED.svg?style=for-the-badge&logo=fedora&logoColor=white" />
   </a>
   <a href="https://brave.com">
