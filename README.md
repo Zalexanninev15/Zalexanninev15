@@ -52,8 +52,8 @@
 ## 🔥 I use tools
 
 <div align="center">
-  <a href="https://manjaro.org">
-        <img src="https://img.shields.io/badge/Manjaro_Linux-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <a href=""https://nobaraproject.org/>
+        <img src="https://img.shields.io/badge/Fedora_(Nobara_Project)-78AEED.svg?style=for-the-badge&logo=fedora&logoColor=white" />
   </a>
   <a href="https://brave.com">
         <img src="https://img.shields.io/badge/brave-%23FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" />
@@ -76,7 +76,7 @@
   <p>
 </div>
 
-**Manjaro Linux with KDE** (Main system), **Brave** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop ([AUR](https://aur.archlinux.org/packages/github-desktop))** (Work with my GitHub repositories and GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Kate**, **Visual Studio Code** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
+**Nobara Linux, Official build with GNOME** (Main system), **Brave** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Gnome Text Editor**, **Visual Studio Code** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
 
 ## 📈 Statistics
 
