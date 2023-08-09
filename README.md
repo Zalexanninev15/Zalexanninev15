@@ -73,7 +73,7 @@
 - 🇬🇧 English 
 - 🇷🇺 Russian
 
-### 🧑‍💻 Programming
+### 🧑‍💻 Basic Experience
 <span>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -111,5 +111,7 @@
 I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **JetBrains IntelliJ IDEA Community Edition**, **Visual Studio Code**, ****,  and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs.
 
 ## 📈 Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuaSMA&theme=github_dark&layout=compact&hide_border=true" />
 
 ![My user statistics](images/userstats.svg)
