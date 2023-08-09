@@ -21,5 +21,6 @@ jobs:
         max-languages: 15
         language-animation-speed: 20
         small-title: true
+        show-border: false
       env:
         GITHUB_TOKEN: ${{secrets.token_sl}}
