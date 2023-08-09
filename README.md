@@ -45,22 +45,43 @@
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
 
-  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee) (*there are several payment methods available*)
+  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
-## 🔥 I use tools
+## 🧰 Equipment
+
+- `Computer`
+  - `CPU` - Intel i3-10100
+  - `RAM` - 16GB DDR4 2667MHz
+  - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
+  - `Operating System` - GNU/Linux
+    - `Distro` - Nobara Linux
+    - `Kernel` - 6.3.12-205.fsync.fc38.x86_64
+    - `DE` - GNOME Shell 44.2
+    - `Icons` - Papirus Dark
+- `Text Editors` - Visual Studio Code, GNOME Text Editor, micro
+- `Browsers` - Brave, Chromium, Waterfox, Firefox, Microsoft Edge, Yandex Browser
+- `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus)
+- `Shell` - zsh 5.9
+- `Mobile Phone` - ZTE Blade V9 Vita
+  - `Operating System` - Android 8.1
+    - `Kernel` - Stock
+
+## 🧑‍💻 Languages
+
+- `Real` - English, Russian
+- `Programming` - 
+
+## 🤖 Tech Stack
 
 <div align="center">
-  <a href="https://nobaraproject.org"/>
-        <img src="https://img.shields.io/badge/Fedora_(Nobara_Project)-78AEED.svg?style=for-the-badge&logo=fedora&logoColor=white" />
-  </a>
-  <a href="https://brave.com">
-        <img src="https://img.shields.io/badge/brave-%23FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" />
-  </a>
   <a href="https://code.visualstudio.com">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
+  <a href="https://www.jetbrains.com/idea/">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-EB2275.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" />
+  </a>
   <a href="https://www.jetbrains.com/pycharm">
-        <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
+        <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
   </a>
   <a href="https://desktop.github.com">
         <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
@@ -74,7 +95,7 @@
   <p>
 </div>
 
-**Nobara Linux, Official build with GNOME** (Main system), **Brave** (Main browser), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **Gnome Text Editor**, **Visual Studio Code** and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **JetBrains IntelliJ IDEA Community Edition**, **Visual Studio Code**, ****,  and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs.
 
 ## 📈 Statistics
 
