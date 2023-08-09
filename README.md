@@ -1,5 +1,4 @@
 # Hi cool Coder 🤘
-(or a normal person)
 
 ## ♌ About Me
 
