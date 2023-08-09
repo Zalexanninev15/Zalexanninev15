@@ -54,9 +54,15 @@
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
   - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
+    - `Version` - 38
     - `Kernel` - 6.3.12-205.fsync.fc38.x86_64
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
+  - `Operating System` - Windows (for some projects)
+    - `Version` - 10
+    - `Build` - 19045 (22H2)
+    - `Whether 3rd party patches or tweaks are used` - Yes (Win 10 Tweaker Pro)
+    - `Package manager` - Scoop
 - `Text Editors` - Visual Studio Code, GNOME Text Editor, micro
 - `Browsers` - Brave, Chromium, Waterfox, Firefox, Microsoft Edge, Yandex Browser
 - `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus)
@@ -107,7 +113,7 @@
   <p>
 </div>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **JetBrains IntelliJ IDEA Community Edition**, **Visual Studio Code**, ****,  and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **JetBrains IntelliJ IDEA Community Edition**, **Visual Studio Code**, and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs.
 
 ## 📈 Statistics
 
