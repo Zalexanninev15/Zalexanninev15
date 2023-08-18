@@ -63,7 +63,7 @@
     - `Version` - 10
     - `Build` - 19045 (22H2)
     - `Whether 3rd party patches or tweaks are used` - Yes (Win 10 Tweaker Pro)
-    - `Package manager` - Scoop
+    - `Package manager` - Chocolatey, Scoop 
 - `Text Editors` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
 - `Code Editors` - IntelliJ IDEA, PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
 - `Browsers` - Brave, Chromium, Waterfox, Firefox, Microsoft Edge, Yandex Browser
