@@ -41,6 +41,8 @@
 
   🕹️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
 
+  🕹 itch.io: [Zalexanninev15](https://zalexanninev15.itch.io)
+
   😇 Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15) 
