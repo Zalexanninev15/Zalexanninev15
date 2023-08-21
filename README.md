@@ -27,7 +27,7 @@
   - [Путь в Linux](https://ttttt.me/funnypenguin) — blog about life on Linux and interesting distributions
   - [Shark Remote: Новостной канал](https://ttttt.me/NewsWiT) — news channel and blog about «Shark Remote», Windows remote control application (Telegram Bot)
 
-  👨‍💻 [GitHub](https://github.com/Zalexanninev15)
+  👨‍💻 GitHub: [Zalexanninev15](https://github.com/Zalexanninev15)
   
   📱 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
 
