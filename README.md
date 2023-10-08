@@ -60,7 +60,7 @@
   - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
     - `Version` - 38
-    - `Kernel` - `6.5.3-200.fsync.fc38.x86_64`
+    - `Kernel` - `6.5.5-202.fsync.fc38.x86_64`
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
   - `Operating System` - Windows (for some projects)
@@ -70,12 +70,12 @@
     - `Package manager` - Chocolatey, Scoop 
 - `Text Editors` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
 - `Code Editors` - IntelliJ IDEA, PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
-- `Browsers` - Brave, Chromium, Waterfox, Firefox, Microsoft Edge, Yandex Browser
-- `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus), PowerShell 7 for Windows
-- `Shell` - zsh 5.9
-- `Mobile Phone` - ZTE Blade V9 Vita (Getting ready to buy a new device)
-  - `Operating System` - Android 8.1
-    - `Kernel` - Stock
+- `Browsers` - Brave, Chromium, Firefox, Microsoft Edge, Cent Browser on Windows
+- `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus), PowerShell and CMD for Windows
+- `Shell` - zsh 5.9, PowerShell 5.1 and CMD for Windows
+- `Mobile Phone` - Realme GT NEO 3 (80W), India version
+  - `Operating System` - Android 13
+  - `UI` - Realme UI 4.0
 
 ## 🔤 Languages
 
