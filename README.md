@@ -75,7 +75,7 @@
 - `Shell` - zsh 5.9, PowerShell 5.1 and CMD for Windows
 - `Mobile Phone` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 13
-  - `UI` - Realme UI 4.0
+  - `Firmware` - Realme UI 4.0
 
 ## 🔤 Languages
 
