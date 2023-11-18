@@ -16,7 +16,7 @@
 
   🤠 [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
-  👤 Site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com) ([new beta site](https://cutt.ly/lwmZEnz1))
+  👤 Site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com) ([new site](https://zalexanninev15.pfm.live))
 
   📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
