@@ -101,9 +101,6 @@
   <a href="https://code.visualstudio.com">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
-  <a href="https://www.jetbrains.com/idea/">
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-EB2275.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" />
-  </a>
   <a href="https://www.jetbrains.com/pycharm">
         <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
   </a>
