@@ -60,22 +60,22 @@
   - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
     - `Version` - 38
-    - `Kernel` - `6.5.5-202.fsync.fc38.x86_64`
+    - `Kernel` - `6.5.9-201.fsync.fc38.x86_64`
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
-  - `Operating System` - Windows (for some projects)
+  - `Operating System` - Windows
     - `Version` - 10
     - `Build` - 19045 (22H2)
-    - `Whether 3rd party patches or tweaks are used` - Yes (Win 10 Tweaker Pro)
-    - `Package manager` - Chocolatey, Scoop 
+    - `3rd party patches or tweaks are used` - Win 10 Tweaker Pro, ExplorerPatcher
+    - `Package manager` - Chocolatey, Scoop
 - `Text Editors` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
-- `Code Editors` - IntelliJ IDEA, PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
-- `Browsers` - Brave, Chromium, Firefox, Microsoft Edge, Cent Browser on Windows
+- `Code Editors` - PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
+- `Browsers` - Brave, Firefox, Cent Browser on Windows
 - `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus), PowerShell and CMD for Windows
 - `Shell` - zsh 5.9, PowerShell 5.1 and CMD for Windows
-- `Mobile Phone` - Realme GT NEO 3 (80W), India version
-  - `Operating System` - Android 13
-  - `Firmware` - Realme UI 4.0
+- `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
+  - `Operating System` - Android 14
+  - `Firmware` - Realme UI 5.0 (beta)
 
 ## 🔤 Languages
 
@@ -119,7 +119,7 @@
   <p>
 </div>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: **JetBrains IntelliJ IDEA Community Edition**, **Visual Studio Code**, and **Notepad++ (on WIndows)**. And also **TCPU (on Windows)** (Total Commader PowerUser) for of all my needs.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET Framework 4.6 & .NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
 
 ## 📈 Statistics
 
