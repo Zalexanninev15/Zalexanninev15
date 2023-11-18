@@ -130,27 +130,14 @@ patched µTorrent for Windows
 
 ### ✍️ Writing code
 
-<div align="center">
-  <a href="https://code.visualstudio.com">
+<span>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm">
         <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
-  </a>
-  <a href="https://desktop.github.com">
         <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/vs/community">
         <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visualstudio&logoColor=#8661C5" />
-  </a>
-  <a href="https://notepad-plus-plus.org">
         <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-  </a>
-  <a href="https://www.jetbrains.com/rustrover">
         <img src="https://img.shields.io/badge/RustRover-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white" />
-  </a>
-  <p>
-</div>
+</span>
 
 I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET Framework 4.6 & .NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
 
