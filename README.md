@@ -49,7 +49,7 @@
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15)
 
-  ☕️ Buy Me a Coffee: [Donate page](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+  ☕️ Donate: [Donate page](https://zalexanninev15-donate.pfm.live)
 
 ## 🧰 Equipment
 
