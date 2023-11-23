@@ -108,23 +108,26 @@ patched µTorrent for Windows
 
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_&_.NET_Framework_+_Windows_Forms-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logo=windowsxp&logoColor=white" />
     <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySide-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/telegram_bot_api-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/codeberg-%232185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" />
     <img src="https://img.shields.io/badge/virustotal-%23394EFF.svg?&style=for-the-badge&logo=virustotal&logoColor=white" />
      <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" />
      <img src="https://img.shields.io/badge/vmware_workstation_pro-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
-        <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?&style=for-the-badge&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
   <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
     <img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/telegraph-%23FAFAFA.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
 </span>
 
