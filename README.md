@@ -60,7 +60,7 @@
   - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
     - `Version` - 38
-    - `Kernel` - `6.5.9-201.fsync.fc38.x86_64`
+    - `Kernel` - `6.5.11-201.fsync.fc38.x86_64`
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
   - `Operating System` - Windows
