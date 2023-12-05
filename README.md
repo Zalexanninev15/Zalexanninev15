@@ -158,5 +158,7 @@ I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuaSMA&theme=github_dark&layout=compact&hide_border=true" />
+</p>
+<p align="center">
 <img align="center" src="https://raw.githubusercontent.com/Zalexanninev15/Zalexanninev15/92458ef87c799d568fe63bd3bf5768b52887f891/images/userstats.svg" />
 </p>
