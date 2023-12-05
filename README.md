@@ -10,7 +10,10 @@
 
 ## 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=onestar&no-frame=true&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)](https://github.com/Zalexanninev15/github-profile-trophy)
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=onestar&no-frame=true&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)">
+</p>
+
 
 ## 📫 How to Reach Me
 
@@ -90,22 +93,26 @@ patched µTorrent for Windows
 - 🇷🇺 Russian
 
 ### 📖 Basic Experience
-<span>
+
+<p align="center">
+   <span>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GNU_Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=black" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </span>
+</p>
 
 ## 👨🏻‍💻 Tech Stack
 
 ### 🧠 Technology
 
+<p align="center">
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -130,9 +137,11 @@ patched µTorrent for Windows
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/telegraph-%23FAFAFA.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
 </span>
+</p>
 
 ### ✍️ Writing code
 
+<p align="center">
 <span>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
@@ -141,11 +150,13 @@ patched µTorrent for Windows
         <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
         <img src="https://img.shields.io/badge/RustRover-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white" />
 </span>
+</p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET Framework 4.6 & .NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
 
 ## 📈 Statistics
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuaSMA&theme=github_dark&layout=compact&hide_border=true" />
-
-![My user statistics](images/userstats.svg)
+<img align="center" src="https://raw.githubusercontent.com/Zalexanninev15/Zalexanninev15/92458ef87c799d568fe63bd3bf5768b52887f891/images/userstats.svg" />
+</p>
