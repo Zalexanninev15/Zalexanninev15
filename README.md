@@ -60,7 +60,7 @@
   - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
     - `Version` - 38
-    - `Kernel` - `6.5.11-201.fsync.fc38.x86_64`
+    - `Kernel` - `6.6.3-203.fsync.fc38.x86_64`
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
   - `Operating System` - Windows
@@ -79,7 +79,7 @@ patched µTorrent for Windows
 - `Shell` - zsh 5.9, PowerShell 5.1 and CMD for Windows
 - `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 14
-  - `Firmware` - Realme UI 5.0 (beta) 
+  - `Firmware` - Realme UI 5.0 (beta)
 
 
 ## 🔤 Languages
