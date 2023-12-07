@@ -27,7 +27,7 @@
 
   📰 Active Telegram channels (RU):
   - [Гнездо программиста](https://ttttt.me/Zalexanninev15_News) — news channel and blog
-  - [Путь в Linux](https://ttttt.me/funnypenguin) — blog about life on Linux and interesting distributions
+  - [Fiery Linux](https://ttttt.me/FieryLinux) — blog about life on Linux and interesting distributions
   - [Shark Remote: Новостной канал](https://ttttt.me/NewsWiT) — news channel and blog about «Shark Remote», Windows remote control application (Telegram Bot)
 
   👨‍💻 GitHub: [Zalexanninev15](https://github.com/Zalexanninev15)
