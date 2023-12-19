@@ -8,6 +8,9 @@
 
 - At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://ttttt.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://ttttt.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
 
+- 2024 👀
+Improvement? Hmm, maybe. We'll see what the New Year brings.
+
 ## 🏆 Trophy
 
 <p align="center">
@@ -72,7 +75,7 @@
     - `3rd party patches or tweaks are used` - Win 10 Tweaker Pro, ExplorerPatcher
     - `Package manager` - Chocolatey, Scoop
 - `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
-- `Code Editor` - PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
+- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows (recently decided to move to JetBrains Rider)
 - `Data base` - SQlite (and SQLiteStudio for editing)
 - `Record video` - OBS Studio
 - `Browser` - Brave, Firefox, Cent Browser on Windows
@@ -152,7 +155,7 @@ patched µTorrent for Windows
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
 
 ## 📈 Statistics
 
