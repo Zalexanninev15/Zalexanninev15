@@ -10,6 +10,7 @@
 
 - 2024 👀
 Improvement? Hmm, maybe. We'll see what the New Year brings.
+This year began with the fact that I set myself Windows 11 (although this happened last year, but this year I finally set it up). I'm not giving up Linux, I just need it for now Windows, but not a Linux + I’m not ready to install Nobara 39 yet, because of its transition to KDE, and I’m still waiting for the stable KDE 6. This year I moved for the first time from .NET 7 to .NET 8. That's all for now.
 
 ## 🏆 Trophy
 
@@ -63,26 +64,25 @@ Improvement? Hmm, maybe. We'll see what the New Year brings.
   - `CPU` - Intel i3-10100
   - `RAM` - 16GB DDR4 2667MHz
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - `Operating System` - GNU/Linux
+  - `Operating System` - GNU/Linux (I don't use it temporarily)
     - `Distro` - Nobara Linux
     - `Version` - 38
     - `Kernel` - `6.6.7-203.fsync.fc38.x86_64`
     - `DE` - GNOME Shell 44.2
     - `Icons` - Papirus Dark
   - `Operating System` - Windows
-    - `Version` - 10
-    - `Build` - 19045 (22H2)
+    - `Version` - 11
+    - `Build` - 23H2
     - `3rd party patches or tweaks are used` - Win 10 Tweaker Pro, ExplorerPatcher
-    - `Package manager` - Chocolatey, Scoop
+    - `Package manager` - Scoop, Chocolatey (only for GNU version of Rust and Python)
 - `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
-- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows (recently decided to move to JetBrains Rider)
+- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows ~~(recently decided to move to JetBrains Rider)~~
 - `Data base` - SQlite (and SQLiteStudio for editing)
 - `Record video` - OBS Studio
 - `Browser` - Brave, Firefox, Cent Browser on Windows
-- `Terminal` - GNOME Terminal (and GNOME Console in Files/Nautilus), PowerShell and CMD for Windows
-- `Other` - uBlock Origin, WakaTime, BleachBit, VLC, MPC-BE for Windows, qBitTorrent
-patched µTorrent for Windows
-- `Shell` - zsh 5.9, PowerShell 5.1 and CMD for Windows
+- `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
+- `Other` - uBlock Origin, WakaTime, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows
+- `Shell` - zsh 5.9, PowerShell 5.1 and 7, CMD
 - `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 14
   - `Firmware` - Realme UI 5.0 (beta)
@@ -155,7 +155,7 @@ patched µTorrent for Windows
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022 (on Windows)** (C# - **.NET 7**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**, sometimes **.NET Framework 4.5-4.8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
 
 ## 📈 Statistics
 
