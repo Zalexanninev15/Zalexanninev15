@@ -8,9 +8,7 @@
 
 - At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://ttttt.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://ttttt.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
 
-- 2024 👀
-Improvement? Hmm, maybe. We'll see what the New Year brings.
-This year began with the fact that I set myself Windows 11 (although this happened last year, but this year I finally set it up). I'm not giving up Linux, I just need it for now Windows, but not a Linux + I’m not ready to install Nobara 39 yet, because of its transition to KDE, and I’m still waiting for the stable KDE 6. This year I moved for the first time from .NET 7 to .NET 8. That's all for now.
+- 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
 
 ## 🏆 Trophy
 
@@ -73,7 +71,7 @@ This year began with the fact that I set myself Windows 11 (although this happen
   - `Operating System` - Windows
     - `Version` - 11
     - `Build` - 23H2
-    - `3rd party patches or tweaks are used` - Win 10 Tweaker Pro, ExplorerPatcher
+    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher
     - `Package manager` - Scoop, Chocolatey (only for GNU version of Rust and Python)
 - `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
 - `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows ~~(recently decided to move to JetBrains Rider)~~
@@ -81,12 +79,11 @@ This year began with the fact that I set myself Windows 11 (although this happen
 - `Record video` - OBS Studio
 - `Browser` - Brave, Firefox, Cent Browser on Windows
 - `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
-- `Other` - uBlock Origin, WakaTime, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows
+- `Other` - uBlock Origin, WakaTime, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows (for quick and easy control of your smartphone)
 - `Shell` - zsh 5.9, PowerShell 5.1 and 7, CMD
 - `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 14
   - `Firmware` - Realme UI 5.0 (beta)
-
 
 ## 🔤 Languages
 
