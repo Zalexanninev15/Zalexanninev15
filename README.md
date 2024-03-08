@@ -54,7 +54,7 @@
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15)
 
-  ☕️ Donate: [Donate page](https://zalexanninev15-donate.pfm.live)
+  ☕️ Donate: [Donate page](https://teletype.in/@zalexanninev15/donate)
 
 ## 🧰 Equipment
 
