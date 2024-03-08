@@ -13,7 +13,7 @@
 ## 🏆 Trophy
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=onestar&no-frame=true&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)">
+   <img src="https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=algolia&no-frame=true&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)">
 </p>
 
 
