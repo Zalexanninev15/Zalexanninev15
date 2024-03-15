@@ -79,7 +79,7 @@
 - `Record video` - OBS Studio
 - `Browser` - Brave, Firefox, Cent Browser on Windows
 - `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
-- `Other` - uBlock Origin, WakaTime, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows (for quick and easy control of your smartphone)
+- `Other` - uBlock Origin, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows (for quick and easy control of your smartphone)
 - `Shell` - zsh 5.9, PowerShell 5.1 and 7, CMD
 - `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 14
@@ -156,9 +156,6 @@ I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBra
 
 ## 📈 Statistics
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuaSMA&theme=github_dark&layout=compact&hide_border=true" />
-</p>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/Zalexanninev15/Zalexanninev15/92458ef87c799d568fe63bd3bf5768b52887f891/images/userstats.svg" />
 </p>
