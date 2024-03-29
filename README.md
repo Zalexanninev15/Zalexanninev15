@@ -10,6 +10,9 @@
 
 - 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
 
+- 2024. Part II
+I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned out to be convenient for me, KDE 6 is still not fully stable, so I'm waiting for the next version, although I'm unlikely to move to it from GNOME. I still use Windows 11 on a regular basis. Despite the general age of all Windows, a bunch of tweaks help to use it without any problems.
+
 ## 🏆 Trophy
 
 <p align="center">
@@ -62,28 +65,28 @@
   - `CPU` - Intel i3-10100
   - `RAM` - 16GB DDR4 2667MHz
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - `Operating System` - GNU/Linux (I don't use it temporarily)
+  - `Operating System` - GNU/Linux
     - `Distro` - Nobara Linux
-    - `Version` - 38
-    - `Kernel` - `6.6.7-203.fsync.fc38.x86_64`
-    - `DE` - GNOME Shell 44.2
+    - `Version` - 39
+    - `Kernel` - ?
+    - `DE` - GNOME Shell ?
     - `Icons` - Papirus Dark
   - `Operating System` - Windows
     - `Version` - 11
     - `Build` - 23H2
-    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher
-    - `Package manager` - Scoop, Chocolatey (only for GNU version of Rust and Python)
-- `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows
-- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows ~~(recently decided to move to JetBrains Rider)~~
+    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher, many other improvements to Windows 11 to a normal state
+    - `Package manager` - Scoop, Chocolatey
+- `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows, CudaText for very large files
+- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
 - `Data base` - SQlite (and SQLiteStudio for editing)
 - `Record video` - OBS Studio
-- `Browser` - Brave, Firefox, Cent Browser on Windows
+- `Browser` - Brave, Firefox, Vivaldi for Windows
 - `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
-- `Other` - uBlock Origin, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows (for quick and easy control of your smartphone)
+- `Other` - uBlock Origin, BleachBit, VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows
 - `Shell` - zsh 5.9, PowerShell 5.1 and 7, CMD
-- `Mobile Phone {current use}` - Realme GT NEO 3 (80W), India version
+- `Mobile Phone` - Realme GT NEO 3 (80W), India version
   - `Operating System` - Android 14
-  - `Firmware` - Realme UI 5.0 (beta)
+  - `Firmware` - Realme UI 5.0
 
 ## 🔤 Languages
 
