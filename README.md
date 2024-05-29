@@ -66,27 +66,25 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
   - `RAM` - 16GB DDR4 2667MHz
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
   - `Operating System` - GNU/Linux
-    - `Distro` - Nobara Linux
-    - `Version` - 39
-    - `Kernel` - `6.7.6-201.fsync.fc39.x86_64`
-    - `DE` - GNOME Shell 45.4
-    - `Icons` - Papirus Dark
+    - `Distro` - KDE neon
+    - `Kernel` - `6.5.0-35-generic`
+    - `DE` - KDE Plasma 6.0.4
   - `Operating System` - Windows
-    - `Version` - 11
-    - `Build` - 23H2
-    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher, a lots of other patch-fixes for Windows 11 for normal use
+    - `Version` - 10
+    - `Build` - 22H2
+    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher and more
     - `Package manager` - Scoop, Chocolatey
-- `Text Editor` - Visual Studio Code, GNOME Text Editor, micro, Notepad++ for Windows and Notepad Next for Linux, CudaText for very large files
+- `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows and Notepad Next for Linux, CudaText for very large files
 - `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
 - `Data base` - SQlite (and SQLiteStudio for editing)
 - `Record video` - OBS Studio
 - `Browser` - Brave, Firefox, Vivaldi for Windows
 - `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
-- `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE for Windows, qBitTorrent, patched µTorrent for Windows, ADB AppControl [Extended version] for Windows
-- `Shell` - zsh 5.9, PowerShell 5.1 and 7, CMD
-- `Mobile Phone` - Realme GT NEO 3 (80W), India version
-  - `Operating System` - Android 14
-  - `Firmware` - Realme UI 5.0
+- `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE for Windows, qBitTorrent, ADB AppControl [Extended version] for Windows
+- `Shell` - zsh 5.9, PowerShell 7, CMD
+- `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
+  - `Operating System` - Android 13
+  - `Firmware` - Realme UI 4.0
 
 ## 🔤 Languages
 
