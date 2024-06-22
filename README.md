@@ -8,12 +8,12 @@
 
 - At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://ttttt.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://ttttt.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
 
-- 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
+* 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
 
-- 2024. Part II
+* Year 2024, Part II
 I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned out to be convenient for me, KDE 6 is still not fully stable, so I'm waiting for the next version, although I'm unlikely to move to it from GNOME. I still use Windows 11 on a regular basis. Despite the general age of all Windows, a bunch of tweaks help to use it without any problems.
 
-- 2024. Part III
+* Year 2024, Part III
 I finally realized that Windows 11 this is complete... 🤬🤬🤬🤬
 I'm back on Windows 10, and I never regretted it, almost all the features of Windows 11 were successfully integrated by me into the system, Windows 11 is garbage, so I don’t regret the downgrade. The second system I installed KDE neon, because I wanted to move away from the gnome and return to KDE. For now, like this, I’m sitting on Windows 10 and KDE neon. Yesterday (June 22) I finally decided to close the issue with WSL2, it was cool. A full-fledged (or something like that) system I have it, and even on Windows 10. Fuck you shitty Windows 11, just fuck you.
  
@@ -103,7 +103,7 @@ I'm back on Windows 10, and I never regretted it, almost all the features of Win
    <span>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
