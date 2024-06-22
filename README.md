@@ -13,6 +13,10 @@
 - 2024. Part II
 I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned out to be convenient for me, KDE 6 is still not fully stable, so I'm waiting for the next version, although I'm unlikely to move to it from GNOME. I still use Windows 11 on a regular basis. Despite the general age of all Windows, a bunch of tweaks help to use it without any problems.
 
+- 2024. Part III
+I finally realized that Windows 11 this is complete... 🤬🤬🤬🤬
+I'm back on Windows 10, and I never regretted it, almost all the features of Windows 11 were successfully integrated by me into the system, Windows 11 is garbage, so I don’t regret the downgrade. The second system I installed KDE neon, because I wanted to move away from the gnome and return to KDE. For now, like this, I’m sitting on Windows 10 and KDE neon. Yesterday (June 22) I finally decided to close the issue with WSL2, it was cool. A full-fledged (or something like that) system I have it, and even on Windows 10. Fuck you shitty Windows 11, just fuck you.
+ 
 ## 🏆 Trophy
 
 <p align="center">
@@ -24,7 +28,7 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
 
   🤠 [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
-  👤 Site: [zalexanninev15.jimdofree.com](https://zalexanninev15.jimdofree.com) ([new site](https://zalexanninev15.pfm.live))
+  👤 Site: New website is under development!
 
   📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
@@ -41,7 +45,7 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
 
   🏔 Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
 
-  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15)
+  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15) (there will be nothing new, I moved everything [here](https://codeberg.org/Zalexanninev15/Scripts-and-snippets))
 
   📝 Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
 
@@ -57,7 +61,7 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15)
 
-  ☕️ Donate: [Donate page](https://teletype.in/@zalexanninev15/donate)
+  ☕️ Donate: [Donate page](https://teletype.in/@zalexanninev15/donate) (The page is still relevant, but will soon be moved to another site)
 
 ## 🧰 Equipment
 
@@ -67,19 +71,19 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
   - `Operating System` - GNU/Linux
     - `Distro` - KDE neon
-    - `Kernel` - `6.5.0-35-generic`
-    - `DE` - KDE Plasma 6.0.4
+    - `Kernel` - fuck knows, definitely above 6.6 (you fucking serious kernel wankers)
+    - `DE` - KDE Plasma 6.1
   - `Operating System` - Windows
     - `Version` - 10
     - `Build` - 22H2
     - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher and more
     - `Package manager` - Scoop, Chocolatey
-- `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows and Notepad Next for Linux, CudaText for very large files
+- `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
 - `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
-- `Data base` - SQlite (and SQLiteStudio for editing)
+- `Data base` - SQlite (and SQLiteStudio for editing), EmEditor
 - `Record video` - OBS Studio
-- `Browser` - Brave, Firefox, Vivaldi for Windows
-- `Terminal` - GNOME Terminal, PowerShell and CMD for Windows
+- `Browser` - Brave, Firefox
+- `Terminal` - GNOME Terminal, PowerShell 7 and CMD for Windows
 - `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE for Windows, qBitTorrent, ADB AppControl [Extended version] for Windows
 - `Shell` - zsh 5.9, PowerShell 7, CMD
 - `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
@@ -153,7 +157,7 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**, sometimes **.NET Framework 4.5-4.8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader PowerUser** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**, sometimes **.NET Framework 4.8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
 
 ## 📈 Statistics
 
