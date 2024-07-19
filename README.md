@@ -45,7 +45,7 @@ I'm back on Windows 10, and I never regretted it, almost all the features of Win
 
   🏔 Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
 
-  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15) (there will be nothing new, I moved everything [here](https://codeberg.org/Zalexanninev15/Scripts-and-snippets))
+  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15) (there will be nothing new, I moved everything [here](https://github.com/Zalexanninev15/Scripts-and-snippets))
 
   📝 Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
 
@@ -60,8 +60,6 @@ I'm back on Windows 10, and I never regretted it, almost all the features of Win
   😇 Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
   
   😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15)
-
-  ☕️ Donate: [Donate page](https://teletype.in/@zalexanninev15/donate) (The page is still relevant, but will soon be moved to another site)
 
 ## 🧰 Equipment
 
