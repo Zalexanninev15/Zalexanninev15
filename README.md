@@ -16,6 +16,10 @@ I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned ou
 * Year 2024, Part III
 I finally realized that Windows 11 this is complete... 🤬🤬🤬🤬
 I'm back on Windows 10, and I never regretted it, almost all the features of Windows 11 were successfully integrated by me into the system, Windows 11 is garbage, so I don’t regret the downgrade. The second system I installed KDE neon, because I wanted to move away from the gnome and return to KDE. For now, like this, I’m sitting on Windows 10 and KDE neon. Yesterday (June 22) I finally decided to close the issue with WSL2, it was cool. A full-fledged (or something like that) system I have it, and even on Windows 10. Fuck you shitty Windows 11, just fuck you.
+
+* Summer of 2024.
+My ardor faded, I decided to return to version 11 of a wonderful buggy, but compatible, system. So far everything is fine, but mostly thanks to my scripts and third-party tweakers from [my new repository](https://github.com/Zalexanninev15/awesome-windows-tweaks).
+
  
 ## 🏆 Trophy
 
@@ -67,13 +71,13 @@ I'm back on Windows 10, and I never regretted it, almost all the features of Win
   - `CPU` - Intel i3-10100
   - `RAM` - 16GB DDR4 2667MHz
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - `Operating System` - GNU/Linux
+  - `Operating System` - GNU/Linux ❌
     - `Distro` - KDE neon
     - `Kernel` - fuck knows, definitely above 6.6 (you fucking serious kernel wankers)
     - `DE` - KDE Plasma 6.1
-  - `Operating System` - Windows
-    - `Version` - 10
-    - `Build` - 22H2
+  - `Operating System` - Windows ✅
+    - `Version` - 11
+    - `Build` - 23H2
     - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher and more
     - `Package manager` - Scoop, Chocolatey
 - `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
