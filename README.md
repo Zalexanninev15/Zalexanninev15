@@ -69,28 +69,25 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
 
 - `Computer`
   - `CPU` - Intel i3-10100
-  - `RAM` - 16GB DDR4 2667MHz
+  - `RAM` - 16GB DDR4 2667 MHz
   - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - `Operating System` - GNU/Linux ❌
-    - `Distro` - KDE neon
-    - `Kernel` - fuck knows, definitely above 6.6 (you fucking serious kernel wankers)
-    - `DE` - KDE Plasma 6.1
+  - `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - `Operating System` - Windows ✅
     - `Version` - 11
     - `Build` - 23H2
     - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher and more
-    - `Package manager` - Scoop, Chocolatey
+    - `Package manager` - Scoop
 - `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
 - `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
 - `Data base` - SQlite (and SQLiteStudio for editing), EmEditor
 - `Record video` - OBS Studio
-- `Browser` - Brave, Firefox
-- `Terminal` - GNOME Terminal, PowerShell 7 and CMD for Windows
+- `Browser` - Vivaldi
+- `Terminal` - Windows Terminal, PowerShell 7 and CMD for Windows
 - `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE for Windows, qBitTorrent, ADB AppControl [Extended version] for Windows
-- `Shell` - zsh 5.9, PowerShell 7, CMD
+- `Shell` - PowerShell 7, CMD
 - `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
-  - `Operating System` - Android 13
-  - `Firmware` - Realme UI 4.0
+  - `Operating System` - Android 14
+  - `Firmware` - Realme UI 5.0
 
 ## 🔤 Languages
 
