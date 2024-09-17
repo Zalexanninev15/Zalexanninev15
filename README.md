@@ -75,8 +75,7 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
   - `Operating System` - Windows ✅
     - `Version` - 11
     - `Build` - 23H2
-    - `3rd party patches or tweaks are used` - Win 10 Tweaker [Pro], ExplorerPatcher and more
-    - `Package manager` - Scoop
+    - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
 - `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
 - `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
 - `Data base` - SQlite (and SQLiteStudio for editing), EmEditor
