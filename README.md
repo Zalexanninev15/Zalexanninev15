@@ -38,6 +38,8 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
   
   ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
 
+  🎁 Buy Me a Coffee (donate): [teletype.in/@zalexanninev15/donate](https://teletype.in/@zalexanninev15/donate)
+
   📰 Active Telegram channels (RU):
   - [Гнездо программиста](https://ttttt.me/Zalexanninev15_News) — news channel and blog
   - [Fiery Linux](https://ttttt.me/FieryLinux) — blog about life on Linux and interesting distributions
