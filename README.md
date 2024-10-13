@@ -162,5 +162,5 @@ I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBra
 ## 📈 Statistics
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/Zalexanninev15/Zalexanninev15/92458ef87c799d568fe63bd3bf5768b52887f891/images/userstats.svg" />
+<img align="center" src="/images/userstats.svg" />
 </p>
