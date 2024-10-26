@@ -6,7 +6,7 @@
 
 - I am a developer of applications for Windows (if necessary, try it under Linux and Web 😊). Know **C#** (2 years), **Python** (1 year, I know the basics and some specialized things, for example: web parsing, working with SQLite, Telegram bots on aiogram, some payment methods and web requests), **PHP** (studied quite a bit, literally the basics of the basics) and **C++** (I know maybe not too well, but razbI know maybe not super well, but I understand relatively well and can write something simple), use **WinForms**, **Console**, **Markdown** and **Bash** & **Batch** for scripts. Learn: **Rust**, **HTML**, **CSS**, **JavaScript** and the basics of **Go**. Previously coded on **Mathcad**, **MATLAB**, **Scilab**, **JPHP (DevelNext)**, **Assembler**, **PureBasic**, **Delphi (7)**, **PHP (DevelStudio)**, **SFX-Macros (RU)**, **Pascal (Turbo Pascal & PascalABC.NET)** and **LogoWorlds (RU)**. I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
 
-- At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://ttttt.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://ttttt.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
+- At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://t.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://t.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
 
 * 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
 
@@ -20,7 +20,6 @@ I'm back on Windows 10, and I never regretted it, almost all the features of Win
 * Summer of 2024.
 My ardor faded, I decided to return to version 11 of a wonderful buggy, but compatible, system. So far everything is fine, but mostly thanks to my scripts and third-party tweakers from [my new repository](https://github.com/Zalexanninev15/awesome-windows-tweaks).
 
- 
 ## 🏆 Trophy
 
 <p align="center">
@@ -32,63 +31,33 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
 
   🤠 [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
-  👤 Site: New website is under development!
+  👤 Site: New website is under development! (Soon)
 
   📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
-  ✍ Telegram: [@Zalexanninev15](https://t.me/Zalexanninev15)
-
-  🎁 Buy Me a Coffee (donate): [teletype.in/@zalexanninev15/donate](https://teletype.in/@zalexanninev15/donate)
-
-  📰 Active Telegram channels (RU):
-  - [Гнездо программиста](https://ttttt.me/Zalexanninev15_News) — news channel and blog
-  - [Fiery Linux](https://ttttt.me/FieryLinux) — blog about life on Linux and interesting distributions
-  - [Shark Remote: Новостной канал](https://ttttt.me/NewsWiT) — news channel and blog about «Shark Remote», Windows remote control application (Telegram Bot)
-
-  👨‍💻 GitHub: [Zalexanninev15](https://github.com/Zalexanninev15)
-  
-  📱 4PDA: [5330563](https://4pda.ru/forum/index.php?showuser=5330563)
-
-  🏔 Codeberg: [Zalexanninev15](https://codeberg.org/Zalexanninev15)
-
-  🗒️ Gists: [Zalexanninev15](https://gist.github.com/Zalexanninev15) (there will be nothing new, I moved everything [here](https://github.com/Zalexanninev15/Scripts-and-snippets))
-
-  📝 Teletype: [Zalexanninev15](https://teletype.in/@zalexanninev15)
-
-  🎮 Steam: [Poslwy](https://steamcommunity.com/id/Poslwy)
-  
-  🐧 Pingvinus.ru: [Morgan](https://pingvinus.ru/user/morgan)
-
-  🕹️ PlayGround.ru: [1944465](https://users.playground.ru/1944465)
-
-  🕹 itch.io: [Zalexanninev15](https://zalexanninev15.itch.io)
-
-  😇 Weblate (by Codeberg): [Zalexanninev15](https://translate.codeberg.org/user/Zalexanninev15)
-  
-  😇 Crowdin: [Zalexanninev15](https://crowdin.com/profile/Zalexanninev15)
+[![](https://img.shields.io/badge/Telegram-509FE7?style=for-the-badge&logo=Telegram&borderRadius=30&logoColor=white)](https://t.me/Zalexanninev15) [![](https://img.shields.io/badge/Telegram_Channels_(Ru)-509FE7?style=for-the-badge&logo=Telegram&borderRadius=30&logoColor=white)](https://t.me/s/maxlife15/140) [![](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&borderRadius=30)](https://link-to-your-donation-page.com) [![](https://img.shields.io/badge/Codeberg-%232185D0?style=for-the-badge&logo=codeberg&logoColor=white&borderRadius=30)](https://codeberg.org/Zalexanninev15) [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&borderRadius=30)](https://steamcommunity.com/id/Poslwy) [![](https://img.shields.io/badge/Pingvinus.ru-F7B12C?style=for-the-badge&logo=linux&logoColor=black&borderRadius=30)](https://steamcommunity.com/id/Poslwy) [![](https://img.shields.io/badge/Weblate_by_Codeberg-4793CC?style=for-the-badge&logo=Weblate&logoColor=white&borderRadius=30)](https://translate.codeberg.org/user/Zalexanninev15) [![](https://img.shields.io/badge/4PDA-0072BC?style=for-the-badge&logo=android&logoColor=mediumspringgreen&borderRadius=30)](https://4pda.to/forum/index.php?showuser=5330563) [![](https://img.shields.io/badge/crowdin-57BC5C?style=for-the-badge&logo=Crowdin&logoColor=21252B&borderRadius=30)](https://crowdin.com/profile/Zalexanninev15) [![](https://img.shields.io/badge/Teletype-E9E9E9.svg?&style=for-the-badge&logo=telegraph&logoColor=645FE2&borderRadius=30)](https://teletype.in/@zalexanninev15) [![](https://img.shields.io/badge/itchdot.io-000000.svg?&style=for-the-badge&logo=itchdotio&logoColor=FA5C5C&borderRadius=30)](https://zalexanninev15.itch.io) [![](https://img.shields.io/badge/PlayGround.ru-242424.svg?&style=for-the-badge&logo=steam&logoColor=E55C5F&borderRadius=30)](https://users.playground.ru/1944465)
 
 ## 🧰 Equipment
 
-- `Computer`
-  - `CPU` - Intel i3-10100
-  - `RAM` - 16GB DDR4 2667 MHz
-  - `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
-  - `Operating System` - Windows ✅
+- 🖥️ `Computer`
+  - 🏿 `CPU` - Intel i3-10100
+  - 🐏 `RAM` - 16GB DDR4 2667 MHz
+  - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
+  - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
+  - 🖳 `Operating System` - Windows ✅
     - `Version` - 11
     - `Build` - 23H2
     - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
-- `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
-- `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
-- `Data base` - SQlite (and SQLiteStudio for editing), EmEditor
-- `Record video` - OBS Studio
-- `Browser` - Vivaldi
-- `Terminal` - Windows Terminal, PowerShell 7 and CMD for Windows
-- `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE for Windows, qBitTorrent, ADB AppControl [Extended version] for Windows
-- `Shell` - PowerShell 7, CMD
-- `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
-  - `Operating System` - Android 14
-  - `Firmware` - Realme UI 5.0
+- 📝 `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
+- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
+- 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor
+- 🌐 `Browser` - Vivaldi
+- ⌨️ `Terminal` - Windows Terminal, PowerShell 7 and CMD for Windows
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip & WinRAR, Total Commander [PowerUser]
+- ⚡ `Shell` - PowerShell 7, CMD
+- 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
+  - 📱 `Operating System` - Android 14
+  - 📲 `Firmware` - Realme UI 5.0
 
 ## 🔤 Languages
 
@@ -103,7 +72,7 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
    <span>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -121,10 +90,10 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logo=windowsxp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white" />
       <img src="https://img.shields.io/badge/PySide-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/telegram_bot_api-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/telegram_bot_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
@@ -136,11 +105,11 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?&style=for-the-badge&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
-  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/wireshark-0060B9.svg?&style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/powershell-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/telegraph-%23FAFAFA.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
+    <img src="https://img.shields.io/badge/telegraph-E9E9E9.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
 </span>
 </p>
 
@@ -157,7 +126,7 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**, sometimes **.NET Framework 4.8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
 
 ## 📈 Statistics
 
