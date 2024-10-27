@@ -2,23 +2,39 @@
 
 ## ♌ About Me
 
-- My path as a developer began in 2013. In the programming group, I started with **LogoWorlds (RU)**, then studied **Turbo Pascal** (on MS-DOS!!!). The most interesting process was creating my own game, but I was more interested in creating an engine, so I didn't finish the project. This is how I finished my training in the group in 2015. Until about 2018, I created projects for myself on **Pascal** and **PHP** (DevelStudio), in 2019 I discovered a wonderful **C#** language. It was incredible, I hadn't even thought about another language before, which was a huge mistake. And I studied this language to create a utility for flash of the smartphone ZTE Blade V9 Vita - [BV9Vita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=88382383). I liked the development so much that I decided to significantly develop the project to [NineVita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=91409816). And off it went... New projects and new discoveries.
+# My Developer Journey
 
-- I am a developer of applications for Windows (if necessary, try it under Linux and Web 😊). Know **C#** (2 years), **Python** (1 year, I know the basics and some specialized things, for example: web parsing, working with SQLite, Telegram bots on aiogram, some payment methods and web requests), **PHP** (studied quite a bit, literally the basics of the basics) and **C++** (I know maybe not too well, but razbI know maybe not super well, but I understand relatively well and can write something simple), use **WinForms**, **Console**, **Markdown** and **Bash** & **Batch** for scripts. Learn: **Rust**, **HTML**, **CSS**, **JavaScript** and the basics of **Go**. Previously coded on **Mathcad**, **MATLAB**, **Scilab**, **JPHP (DevelNext)**, **Assembler**, **PureBasic**, **Delphi (7)**, **PHP (DevelStudio)**, **SFX-Macros (RU)**, **Pascal (Turbo Pascal & PascalABC.NET)** and **LogoWorlds (RU)**. I also do various creative things. I am looking for interesting projects and ready for possible cooperation.
+## Beginnings (2013 - 2018)
+My journey as a developer began in 2013. I joined a programming group and started with **LogoWorlds (RU)**, later transitioning to **Turbo Pascal** (yes, on MS-DOS!). The highlight for me was building my own game, but my true interest lay in developing an engine, which led to me leaving the project unfinished. I completed my training in the group in 2015 and continued creating personal projects in **Pascal** and **PHP** (using DevelStudio) until around 2018. 
 
-- At the end of 2022, I decided to finally move completely to Linux and start a new chapter in software development, and not only software. I also created [a channel in Telegram (RU)](https://t.me/FieryLinux), in which I publish my thoughts and stories. As a starting point, I settled on Manjaro with a KDE environment. The plans for 2023 are to hone their skills in working with Python and Rust. I am also studying in the "initial" web development (HTML, CSS, JavaScript). Although I will develop in C#, it is extremely rare. In early June 2023, I finally decided to try out Fedora with GNOME in the form of the Nobara Linux distribution. He reported all his torments and discoveries in my Telegram channel - [Fiery Linux (RU)](https://t.me/FieryLinux). Since September I began to actively develop my website creation skills (HTML, CSS, JavaScript). When solving some relatively simple problems, writing the same type of code or “one-time” code, I use ChatGPT.
+In 2019, I discovered **C#**. This was a game-changer—I hadn’t even considered other languages before, which in hindsight was a huge oversight. With C#, I created a utility for flashing the smartphone ZTE Blade V9 Vita: [BV9Vita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=88382383). My enthusiasm for development grew, and I expanded the project into [NineVita (RU)](https://4pda.to/forum/index.php?showtopic=952274&view=findpost&p=91409816). And from there, it all started—new projects and new discoveries.
 
-* 2024 👀 An improvement? Hmm, maybe. We'll see what the new year brings: This year started with me installing Windows 11 for myself (although it happened last year, but I finally got it installed this year). I'm not giving up on Linux, I just want Windows rather than Linux for now + I'm not ready to install Nobara 39 yet because of the switch to KDE, and I'm still waiting for a stable KDE 6. This year was the first time I switched from .NET 7 to .NET 8. That's it for now.
+## Skills and Technologies
+I primarily develop applications for Windows (with occasional experiments on Linux and Web). Here’s a quick summary of the technologies I know and use:
+- **Languages**: **C#** (5 years), **Rust** (1 year), **Python** (2 years; experienced in basics, web parsing, SQLite, Telegram bots with `aiogram` (version 2, but at the moment I'm writing on version With an eye on the future), web requests), **PHP** (beginner), **C++** (enough to handle basic tasks), the initial Web (vanilla HTML, CSS, JavaScript), **C++** (six months).
+- **Frameworks & Tools**: **WinForms**, **Console**, **Markdown**, **Bash**, and **Batch** for scripts.
+- **Previously Used**: **Mathcad**, **MATLAB**, **Scilab**, **JPHP (DevelNext)**, **Assembler**, **PureBasic**, **Delphi 7**, **Pascal (Turbo Pascal & PascalABC.NET)**, and **LogoWorlds (RU)**.
 
-* Year 2024, Part II
-I finally mastered GNOME, albeit with a bunch of extensions. Still, it turned out to be convenient for me, KDE 6 is still not fully stable, so I'm waiting for the next version, although I'm unlikely to move to it from GNOME. I still use Windows 11 on a regular basis. Despite the general age of all Windows, a bunch of tweaks help to use it without any problems.
+I'm always on the lookout for interesting projects and open to potential collaboration.
 
-* Year 2024, Part III
-I finally realized that Windows 11 this is complete... 🤬🤬🤬🤬
-I'm back on Windows 10, and I never regretted it, almost all the features of Windows 11 were successfully integrated by me into the system, Windows 11 is garbage, so I don’t regret the downgrade. The second system I installed KDE neon, because I wanted to move away from the gnome and return to KDE. For now, like this, I’m sitting on Windows 10 and KDE neon. Yesterday (June 22) I finally decided to close the issue with WSL2, it was cool. A full-fledged (or something like that) system I have it, and even on Windows 10. Fuck you shitty Windows 11, just fuck you.
+## Transition to Linux and Growth (2022 - Present)
+At the end of 2022, I decided to fully switch to Linux and start a new chapter in software development. I also created [a Telegram channel (RU)](https://t.me/FieryLinux) to share my thoughts and experiences. I initially settled on **Manjaro** with **KDE**. For 2023, I set goals to improve my skills in **Python** and **Rust**, along with learning basic web development (HTML, CSS, JavaScript). While I continued working in C#, it became a rare tool for me. By June 2023, I tried **Fedora with GNOME** through the **Nobara Linux** distribution, documenting my experiences on my channel.
 
-* Summer of 2024.
-My ardor faded, I decided to return to version 11 of a wonderful buggy, but compatible, system. So far everything is fine, but mostly thanks to my scripts and third-party tweakers from [my new repository](https://github.com/Zalexanninev15/awesome-windows-tweaks).
+In September 2023, I began seriously developing my web skills (HTML, CSS, JavaScript) and even used **ChatGPT** for quick solutions to repetitive or simple code. As of August 2024, he switched from ChatGPT to **Claude 3.5 Sonnet**, and I'm already writing large sections of code on it, which are not interesting to write manually or are too labor-intensive, and there is no output.
+
+## The Windows-Linux Dance (2024 - Present)
+**2024** began with me finally setting up **Windows 11**. While I haven't abandoned Linux, Windows suits my needs for now, especially as I await a stable release of **KDE 6**. This year also marked my shift from .NET 7 to .NET 8.
+
+Later in 2024, I experimented more with GNOME, adding numerous extensions to make it work well for me. Despite **KDE 6**'s release, I remained with **GNOME** on **Nobara** for stability. However, I continued using Windows 11 with various tweaks for a smoother experience.
+
+**June 2024**: I reached a breaking point with Windows 11's issues and downgraded to Windows 10, where I managed to implement almost all of Windows 11’s features. I set up **KDE neon** as a secondary system and finally configured **WSL2** for a pseudo-native Linux experience on Windows 10.
+
+## Back to Windows 11, But On My Terms (Summer 2024)
+After some time, I decided to return to **Windows 11**—it’s buggy yet compatible. Thanks to a series of personal scripts and third-party tools, my experience is much smoother now. Check out my [awesome-windows-tweaks repository](https://github.com/Zalexanninev15/awesome-windows-tweaks) for my collection of tweaks. The year is already coming to an end, but thanks to my special tweaks from all over the Russian-speaking Internet (and not only), I feel incredibly comfortable using Windows 11, so I don't need Windows 10 anymore, but still I sometimes run Linux distributions in a virtual machine.
+
+---
+
+Looking forward to what 2025 and beyond will bring!
 
 ## 🏆 Trophy
 
@@ -44,12 +60,11 @@ My ardor faded, I decided to return to version 11 of a wonderful buggy, but comp
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
   - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
-  - 🖳 `Operating System` - Windows ✅
-    - `Version` - 11
+  - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
     - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
-- 📝 `Text Editor` - Visual Studio Code, micro, Notepad++ for Windows
-- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, JetBrains RustRover, Visual Studio 2022 for Windows
+- 📝 `Code Editor` - Visual Studio Code, micro, Notepad++ for Windows
+- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor
 - 🌐 `Browser` - Vivaldi
 - ⌨️ `Terminal` - Windows Terminal, PowerShell 7 and CMD for Windows
