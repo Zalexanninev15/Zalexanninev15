@@ -19,6 +19,7 @@ jobs:
         include-title: false
         top-icon: github
         max-languages: 15
+        language-repository-exclusions:  awesome-windows-tweaks
         language-animation-speed: 20
         small-title: true
         show-border: false
