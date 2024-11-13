@@ -73,6 +73,7 @@ Looking forward to what 2025 and beyond will bring!
 - 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
   - 📱 `Operating System` - Android 14
   - 📲 `Firmware` - Realme UI 5.0
+  - ⚡ `Terminal & Shell` - Termux with bash and my [Termux-setup](https://github.com/Zalexanninev15/awesome-linux-tweaks/blob/main/Termux-setup.sh)
 
 ## 🔤 Languages
 
