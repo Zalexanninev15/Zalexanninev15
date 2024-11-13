@@ -66,14 +66,15 @@ Looking forward to what 2025 and beyond will bring!
 - 📝 `Code Editor` - Visual Studio Code, micro, Notepad++ for Windows
 - </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor
-- 🌐 `Browser` - Vivaldi
-- ⌨️ `Terminal` - Windows Terminal, PowerShell 7 and CMD for Windows
-- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), VLC, MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip & WinRAR, Total Commander [PowerUser]
-- ⚡ `Shell` - PowerShell 7, CMD
+- 🌐 `Browser` - Vivaldi, Cent Browser
+- ⌨️ `Terminal application` - Windows Terminal
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla
+- ⚡ `Shell` - PowerShell 7, WSL (version 2; bash), CMD
 - 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
   - 📱 `Operating System` - Android 14
   - 📲 `Firmware` - Realme UI 5.0
-  - ⚡ `Terminal & Shell` - Termux with bash and my [Termux-setup](https://github.com/Zalexanninev15/awesome-linux-tweaks/blob/main/Termux-setup.sh)
+  - 💪 `Rooted` - Yes 
+  - ⚡ `Terminal application & Shell` - Termux with bash and my [**Termux-setup**](https://github.com/Zalexanninev15/awesome-linux-tweaks/blob/main/Termux-setup.sh)
 
 ## 🔤 Languages
 
