@@ -59,6 +59,7 @@ Looking forward to what 2025 and beyond will bring!
   - 🏿 `CPU` - Intel i3-10100
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
   - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
+  - 🖱 `Mouse` - Attack Shark X6 (to replace my Bloody v7 (first revision))
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
@@ -143,7 +144,7 @@ Looking forward to what 2025 and beyond will bring!
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8/9**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
 
 ## 📈 Statistics
 
