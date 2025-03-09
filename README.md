@@ -59,7 +59,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
   - 🏿 `CPU` - Intel i3-10100
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
   - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - 🖱 `Mouse` - Attack Shark X6 (to replace my Bloody v7 (first revision))
+  - 🖱 `Mouse` - Attack Shark X6 (to replace my Bloody v7 rev.1)
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
@@ -67,7 +67,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 - 📝 `Code Editor` - Visual Studio Code, micro, Notepad++ for Windows
 - </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor
-- 🌐 `Browser` - Vivaldi, Cent Browser
+- 🌐 `Browser` - Vivaldi, Ungoogled Chromium, Zen Browser
 - ⌨️ `Terminal application` - Windows Terminal
 - 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla
 - ⚡ `Shell` - PowerShell 7, WSL (version 2; bash), CMD
@@ -144,7 +144,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **JetBrains RustRover** (Rust), **Visual Studio 2022** (on Windows) (C# - **.NET 8/9**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader - Freemen** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022** (on Windows) (C# - **.NET 9**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader (my build)** for of all my needs on Windows.
 
 ## 📈 Statistics
 
