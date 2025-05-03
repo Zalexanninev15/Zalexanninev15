@@ -121,6 +121,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
     <img src="https://img.shields.io/badge/virustotal-%23394EFF.svg?&style=for-the-badge&logo=virustotal&logoColor=white" />
      <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" />
      <img src="https://img.shields.io/badge/vmware_workstation_pro-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
+   <img src="https://img.shields.io/badge/virtualbox-007996?style=for-the-badge&logo=virtualbox&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
     <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
