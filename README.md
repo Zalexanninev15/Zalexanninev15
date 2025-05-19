@@ -47,7 +47,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 
   🤠 [Nickname Certificate](https://mynickname.com/en/Zalexanninev15)
 
-  👤 Site: New website is under development! (Soon)
+  👤 [Site](https://z15.neocities.org) (This new website is under development, it is already working stably)
 
   📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
   
