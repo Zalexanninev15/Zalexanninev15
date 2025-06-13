@@ -97,6 +97,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
   <img src="https://img.shields.io/badge/GNU_Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=black" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </span>
 </p>
 
