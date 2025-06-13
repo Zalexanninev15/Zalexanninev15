@@ -87,10 +87,11 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 ### 📖 Basic Experience
 
 <p align="center">
-   <span>
+<span>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GNU_Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=black" />
@@ -108,27 +109,28 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
    <img src="https://img.shields.io/badge/Google_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/WSL-FFC700?&style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/PySide-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/telegram_bot_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
-    <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/codeberg-%232185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" />
-    <img src="https://img.shields.io/badge/virustotal-%23394EFF.svg?&style=for-the-badge&logo=virustotal&logoColor=white" />
-     <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-     <img src="https://img.shields.io/badge/vmware_workstation_pro-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
+   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+   <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white" />
+   <img src="https://img.shields.io/badge/WSL-FFC700?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/PySide-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
+   <img src="https://img.shields.io/badge/telegram_bot_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+   <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
+   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/codeberg-%232185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" />
+   <img src="https://img.shields.io/badge/virustotal-%23394EFF.svg?&style=for-the-badge&logo=virustotal&logoColor=white" />
+   <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+   <img src="https://img.shields.io/badge/vmware_workstation_pro-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
    <img src="https://img.shields.io/badge/virtualbox-007996?style=for-the-badge&logo=virtualbox&logoColor=white" />
- <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
-    <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/powershell_&_batch_&_bash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/telegraph-E9E9E9.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
+   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
+   <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
+   <img src="https://img.shields.io/badge/powershell_&_batch_&_bash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+   <img src="https://img.shields.io/badge/telegraph-E9E9E9.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
 </span>
 </p>
 
@@ -136,11 +138,11 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 
 <p align="center">
 <span>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
-        <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
-        <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visualstudio&logoColor=#8661C5" />
-        <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
+   <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
+   <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visual-studio&logoColor=#8661C5" />
+   <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
 </span>
 </p>
 
