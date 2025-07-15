@@ -148,9 +148,3 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 </p>
 
 I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022** (on Windows) (C# - **.NET 9**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader (my build)** for of all my needs on Windows.
-
-## 📈 Statistics
-
-<p align="center">
-<img align="center" src="/images/userstats.svg" />
-</p>
