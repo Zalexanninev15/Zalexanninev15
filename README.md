@@ -36,6 +36,10 @@ After some time, I decided to return to **Windows 11** – it’s buggy yet comp
 
 I'm still using the same Windows 11 installed in July. I've learned how to combine the power of Linux and excellent Windows compatibility.
 
+## From August 2025 to the present
+
+My life has changed a little. From developing projects in "adult programming languages," I moved on to writing scripts in Bash and Python for automation. I am an intern at the same company, which is why I completely immersed myself in the world of Linux and threw myself away. I only use Windows at home, and then only for games.  I will say this, Having your own server is cool!
+
 ## 🏆 Trophy
 
 <p align="center">
@@ -50,6 +54,8 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
   👤 [Site](https://z15.neocities.org)
 
   📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
+
+  📨🔒️ Delta Chat group: ([link is available on the contact page](https://z15.neocities.org/contacts))
 
 ## 🧰 Equipment
 
@@ -116,9 +122,10 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
    <img src="https://img.shields.io/badge/telegram_user_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-   <img src="https://img.shields.io/badge/git%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
    <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
