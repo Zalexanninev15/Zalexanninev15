@@ -57,17 +57,16 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
   - 🏿 `CPU` - Intel i3-10100
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
   - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
-  - 🖱 `Mouse` - Attack Shark X6 (to replace my Bloody v7 rev.1)
+  - 🖱 `Mouse` - Attack Shark X6
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
     - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
-- 📝 `Code Editor` - Visual Studio Code, micro, Notepad++ for Windows
-- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Visual Studio 2022 for Windows
-- 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor
-- 🌐 `Browser` - Vivaldi, Ungoogled Chromium, Zen Browser
+- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Notepad++ for Windows and Notepad Next for Linux, micro
+- 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV
+- 🌐 `Browser` - Vivaldi, Zen Browser
 - ⌨️ `Terminal application` - Windows Terminal
-- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop
 - ⚡ `Shell` - PowerShell 7, WSL (version 2; bash), CMD
 - 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
   - 📱 `Operating System` - Android 14
@@ -81,41 +80,45 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 
 - 🇬🇧 English
 - 🇷🇺 Russian
+- 🇯🇵 Japanese (sometimes I try, but it doesn't really work out)
 
-### 📖 Basic Experience
+### 📖 Experience
 
 <p align="center">
 <span>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GNU_Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </span>
 </p>
 
-## 👨🏻‍💻 Tech Stack
-
-### 🧠 Technology
+## 👨🏻‍💻 Tech Stack & 🧠 Technology
 
 <p align="center">
 <span>
+   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
    <img src="https://img.shields.io/badge/Google_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
    <img src="https://img.shields.io/badge/Windows_API-%230078D4.svg?&style=for-the-badge&logoColor=white" />
-   <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white" />
    <img src="https://img.shields.io/badge/WSL-FFC700?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/PySide-%2341CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
    <img src="https://img.shields.io/badge/telegram_bot_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+   <img src="https://img.shields.io/badge/telegram_user_api-509FE7.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+   <img src="https://img.shields.io/badge/git%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
    <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -129,20 +132,7 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
    <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
    <img src="https://img.shields.io/badge/powershell_&_batch_&_bash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-   <img src="https://img.shields.io/badge/telegraph-E9E9E9.svg?&style=for-the-badge&logo=telegraph&logoColor=black" />
 </span>
 </p>
 
-### ✍️ Writing code
-
-<p align="center">
-<span>
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-   <img src="https://img.shields.io/badge/pycharm-ABEFB8.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
-   <img src="https://img.shields.io/badge/GitHub_Desktop-24292E?style=for-the-badge&logo=github&logoColor=#692786" />
-   <img src="https://img.shields.io/badge/Visual_Studio_2022-473EA3?style=for-the-badge&logo=visual-studio&logoColor=#8661C5" />
-   <img src="https://img.shields.io/badge/Notepad++-A9F37E?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-</span>
-</p>
-
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git), **Visual Studio 2022** (on Windows) (C# - **.NET 9**). For all and web: - **Visual Studio Code**, and **Notepad++** (on WIndows). And also **Total Commader (my build)** for of all my needs on Windows.
+I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Notepad Next** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.
