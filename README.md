@@ -40,12 +40,6 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 
 My life has changed a little. From developing projects in "adult programming languages," I moved on to writing scripts in Bash and Python for automation. I am an intern at the same company, which is why I completely immersed myself in the world of Linux and threw myself away. I only use Windows at home, and then only for games.  I will say this, Having your own server is cool!
 
-## 🏆 Trophy
-
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Zalexanninev15&theme=algolia&no-frame=true&margin-w=7&margin-h=7&rank=A,AAA,AA,B,BB,BBB,SECRET&row=2&column=3)">
-</p>
-
 
 ## 📫 How to Reach Me
 
