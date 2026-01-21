@@ -60,9 +60,9 @@ My life has changed a little. From developing projects in "adult programming lan
 ## 🧰 Equipment
 
 - 🖥️ `Computer`
-  - 🏿 `CPU` - Intel i3-10100
+  - 🏿 `CPU` - Intel i3-10100, soon: i5-10600k (engineering revision is at the level of i5-10600kf)
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
-  - 🗂 `GPU` - PowerColor AMD Radeon RX 470 Red Dragon (4GB)
+  - 🗂 `GPU` - ~~PowerColor AMD Radeon RX 470 Red Dragon (4GB)~~ ASUS Dual RTX 5060 Ti 16GB OC Edition
   - 🖱 `Mouse` - Attack Shark X6
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - 🖳 `Operating System` - Windows 11
@@ -142,4 +142,4 @@ My life has changed a little. From developing projects in "adult programming lan
 </span>
 </p>
 
-I use **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Notepad Next** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.
+I use **JetBrains Rider** (C#), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Notepad Next** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.
