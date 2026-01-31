@@ -55,21 +55,21 @@ My life has changed a little. From developing projects in "adult programming lan
 
 - 🖥️ `Computer`
   - 🏿 `CPU` - ~~Intel i3-10100~~ Intel i5-10600k (engineering revision is at the level of i5-10600kf)
-  - 🐏 `RAM` - 16GB DDR4 2667 MHz
+  - 🐏 `RAM` - 16GB DDR4 2667 MHz (2x8GB)
   - 🗂 `GPU` - ~~PowerColor AMD Radeon RX 470 Red Dragon (4GB)~~ ASUS Dual RTX 5060 Ti 16GB OC Edition
   - 🖱 `Mouse` - Attack Shark X6
   - ⌨️ `Keyboard` - Genius Smart KB-100
+  - 🎮 `Gamepad` - Flydigi Vader 4 Pro
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
-  - 🎮 `Gamepad ` - Flydigi Vader 4 Pro
   - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
     - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
-- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Notepad++ for Windows and Notepad Next for Linux, micro
-- 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV
-- 🌐 `Browser` - Vivaldi, Zen Browser
+- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Notepad++ for Windows and Kate for Linux, micro
+- 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV, PostgreSQL
+- 🌐 `Browser` - Vivaldi, Floorp
 - ⌨️ `Terminal application` - Windows Terminal
-- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop
-- ⚡ `Shell` - PowerShell 7, WSL (version 2; bash), CMD
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop
+- ⚡ `Shell` - PowerShell 7, WSL2 (bash), CMD, zsh on Linux
 - 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
   - 📱 `Operating System` - Android 14
   - 📲 `Firmware` - Realme UI 5.0
@@ -138,4 +138,4 @@ My life has changed a little. From developing projects in "adult programming lan
 </span>
 </p>
 
-I use **JetBrains Rider** (C#), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Notepad Next** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.
+I use **JetBrains Rider** (C#), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Kate** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.
