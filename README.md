@@ -54,11 +54,13 @@ My life has changed a little. From developing projects in "adult programming lan
 ## 🧰 Equipment
 
 - 🖥️ `Computer`
-  - 🏿 `CPU` - Intel i3-10100, soon: i5-10600k (engineering revision is at the level of i5-10600kf)
+  - 🏿 `CPU` - ~~Intel i3-10100~~ Intel i5-10600k (engineering revision is at the level of i5-10600kf)
   - 🐏 `RAM` - 16GB DDR4 2667 MHz
   - 🗂 `GPU` - ~~PowerColor AMD Radeon RX 470 Red Dragon (4GB)~~ ASUS Dual RTX 5060 Ti 16GB OC Edition
   - 🖱 `Mouse` - Attack Shark X6
+  - ⌨️ `Keyboard` - Genius Smart KB-100
   - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
+  - 🎮 `Gamepad ` - Flydigi Vader 4 Pro
   - 🖳 `Operating System` - Windows 11
     - `Build` - 23H2
     - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
