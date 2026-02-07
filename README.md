@@ -53,7 +53,7 @@ My life has changed a little. From developing projects in "adult programming lan
 
 ## 🧰 Equipment
 
->I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1700) to the new one (AM5).
+>I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5).
 
 - 🖥️ `Computer`
   - 🏿 `CPU` - ~~Intel i3-10100~~ ~~Intel i5-10600k (engineering revision is at the level of i5-10600kf)~~
