@@ -40,6 +40,9 @@ I'm still using the same Windows 11 installed in July. I've learned how to combi
 
 My life has changed a little. From developing projects in "adult programming languages," I moved on to writing scripts in Bash and Python for automation. I am an intern at the same company, which is why I completely immersed myself in the world of Linux and threw myself away. I only use Windows at home, and then only for games.  I will say this, Having your own server is cool!
 
+## The end of 2025 is the current time...
+
+I got a job at an IT company and I currently have very little time on my computer at home. I try to find this time, but mostly I either play or do side network projects (mainly maintaining and configuring my self-hosted services). Programming has moved far away, and the development of AI has made crosses on my developments and plans, because it is easier to make a prototype or the entire program through AI (especially Claude) than to spend many hours or days trying to make something work. Perhaps it's also the changed home environment that is pushing me not to sit still anymore. In short, I switched to vibe coding by 99%, which, however, had a positive effect in some points, because now I don't need to study documentation, but it's easier to explain in technical language to the "computer" what I need, and then just fix the prototype problems. I haven't reached autotests yet, but I'm interested in testing myself.
 
 ## 📫 How to Reach Me
 
@@ -53,7 +56,7 @@ My life has changed a little. From developing projects in "adult programming lan
 
 ## 🧰 Equipment
 
->I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5).
+> I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5). There are also some plans to upgrade your smartphone and buy a MacBook (on M2-M4,It's not so easy to find cheap 16GB options), but that's another story.
 
 - 🖥️ `Computer`
   - 🏿 `CPU` - ~~Intel i3-10100~~ ~~Intel i5-10600k (engineering revision is at the level of i5-10600kf)~~
