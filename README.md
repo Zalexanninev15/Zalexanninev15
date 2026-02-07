@@ -53,10 +53,13 @@ My life has changed a little. From developing projects in "adult programming lan
 
 ## 🧰 Equipment
 
+>I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1700) to the new one (AM5).
+
 - 🖥️ `Computer`
-  - 🏿 `CPU` - ~~Intel i3-10100~~ Intel i5-10600k (engineering revision is at the level of i5-10600kf)
-  - 🐏 `RAM` - 16GB DDR4 2667 MHz (2x8GB)
+  - 🏿 `CPU` - ~~Intel i3-10100~~ ~~Intel i5-10600k (engineering revision is at the level of i5-10600kf)~~
+  - 🐏 `RAM` - ~~16GB DDR4 2667 MHz (2x8GB)~~
   - 🗂 `GPU` - ~~PowerColor AMD Radeon RX 470 Red Dragon (4GB)~~ ASUS Dual RTX 5060 Ti 16GB OC Edition
+  - 💾 `Storage` - ARDOR GAMING Ally [ALMA512-ALG41284], 3,5" HDD x2, 2,5" SSD
   - 🖱 `Mouse` - Attack Shark X6
   - ⌨️ `Keyboard` - Genius Smart KB-100
   - 🎮 `Gamepad` - Flydigi Vader 4 Pro
@@ -119,6 +122,26 @@ My life has changed a little. From developing projects in "adult programming lan
    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+   <img src="https://img.shields.io/badge/insomnia-%234000BF.svg?&style=for-the-badge&logo=insomnia&logoColor=white" />
+   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/codeberg-%232185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" />
+   <img src="https://img.shields.io/badge/virustotal-%23394EFF.svg?&style=for-the-badge&logo=virustotal&logoColor=white" />
+   <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+   <img src="https://img.shields.io/badge/vmware_workstation_pro-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
+   <img src="https://img.shields.io/badge/virtualbox-007996?style=for-the-badge&logo=virtualbox&logoColor=white" />
+   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img src="https://img.shields.io/badge/.ENV-%23ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=black" />
+   <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
+   <img src="https://img.shields.io/badge/powershell_&_batch_&_bash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</span>
+</p>
+
+I use **JetBrains Rider** (C#), **JetBrains PyCharm** (Python), **GitHub Desktop** (GUI for Git on Windows) For all and web: - **Visual Studio Code**, and **Notepad++** on Windows or **Kate** on Linux. And also **Total Commader (my build based, based on 3 builds from different authors)** for of all my needs on Windows.t&logoColor=white">
    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
