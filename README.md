@@ -36,7 +36,7 @@ After some time, I decided to return to **Windows 11** – it’s buggy yet comp
 
 I'm still using the same Windows 11 installed in July. I've learned how to combine the power of Linux and excellent Windows compatibility.
 
-## From August 2025 to the present
+## From August 2025 to fall
 
 My life has changed a little. From developing projects in "adult programming languages," I moved on to writing scripts in Bash and Python for automation. I am an intern at the same company, which is why I completely immersed myself in the world of Linux and threw myself away. I only use Windows at home, and then only for games.  I will say this, Having your own server is cool!
 
@@ -56,7 +56,7 @@ I got a job at an IT company and I currently have very little time on my compute
 
 ## 🧰 Equipment
 
-> I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5). There are also some plans to upgrade your smartphone and buy a MacBook (on M2-M4,It's not so easy to find cheap 16GB options), but that's another story.
+> I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5). There are also some plans to upgrade my smartphone and buy a MacBook (on M2-M4,It's not so easy to find cheap 16GB options), but that's another story.
 
 - 🖥️ `Computer`
   - 🏿 `CPU` - ~~Intel i3-10100~~ ~~Intel i5-10600k (engineering revision is at the level of i5-10600kf)~~
