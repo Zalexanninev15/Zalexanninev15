@@ -54,37 +54,32 @@ I can't believe it... I almost don't program myself anymore, many projects were 
 
   👤 [Site](https://z15.neocities.org)
 
-  📨 Email: [blue.shark@disroot.org](mailto:blue.shark@disroot.org)
-
-  📨🔒️ Delta Chat group: ([link is available on the contact page](https://z15.neocities.org/contacts))
-
 ## 🧰 Equipment
 
 > I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5). There are also some plans to upgrade my smartphone and buy a MacBook (on M2-M4,It's not so easy to find cheap 16GB options), but that's another story.
 
 - 🖥️ `Computer`
-  - 🏿 `CPU` - ~~Intel i3-10100~~ ~~Intel i5-10600k (engineering revision is at the level of i5-10600kf)~~
-  - 🐏 `RAM` - ~~16GB DDR4 2667 MHz (2x8GB)~~
-  - 🗂 `GPU` - ~~PowerColor AMD Radeon RX 470 Red Dragon (4GB)~~ ASUS Dual RTX 5060 Ti 16GB OC Edition
+  - 🏿 `CPU` - MD Ryzen 5 7500f
+  - 🐏 `RAM` - 16GB DDR5 (SO-DIMM to DIMM)
+  - 🗂 `GPU` - ASUS Dual RTX 5060 Ti 16GB OC Edition
   - 💾 `Storage` - ARDOR GAMING Ally [ALMA512-ALG41284], 3,5" HDD x2, 2,5" SSD
   - 🖱 `Mouse` - Attack Shark X6
-  - ⌨️ `Keyboard` - Genius Smart KB-100
+  - ⌨️ `Keyboard` - NuPhy Air75 V3 (ASCII version)
   - 🎮 `Gamepad` - Flydigi Vader 4 Pro
-  - 🖥️ `Display` - Acer V223w, Xiaomi G24i (revision G24 with IPS and 180 Hz)
-  - 🖳 `Operating System` - Windows 11
-    - `Build` - 23H2
-    - `How I customize Windows` - [**Awesome Windows Tweaks (RU)**](https://github.com/Zalexanninev15/awesome-windows-tweaks)
-- </> `Code Editor` - JetBrains PyCharm, Visual Studio Code, Notepad++ for Windows and Kate for Linux, micro
+  - 🖥️ `Display` - Xiaomi G24i (revision G24 with IPS and 180 Hz)
+  - 🖳 `Operating System` - Windows 11 (25H2) for Home, Ubuntu 24.04 with KDE 6 for Work, Ubuntu 24.04 for WSL
+    - `How I customize Windows` - [**Awesome Windows Tweaks III (RU)**](z15.neocities.org/s/awt3)
+- </> `Code Editor` - Zed, Notepad++ for Windows and Kate for Linux, micro
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV, PostgreSQL
-- 🌐 `Browser` - Vivaldi, Floorp
-- ⌨️ `Terminal application` - Windows Terminal
+- 🌐 `Browser` - Vivaldi, Helium, Firefox
+- ⌨️ `Terminal application` - Windows Terminal, Kitty on Linux
 - 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop
-- ⚡ `Shell` - PowerShell 7, WSL2 (bash), CMD, zsh on Linux
-- 🤳 `Mobile Phone` - Realme GT NEO 3 (80W) (China revision with India firmware)
-  - 📱 `Operating System` - Android 14
-  - 📲 `Firmware` - Realme UI 5.0
+- ⚡ `Shell` - PowerShell 7, WSL (bash), CMD, zsh on Linux
+- 🤳 `Mobile Phone` - OnePlus 15 (Global version)
+  - 📱 `Operating System` - Android 16
+  - 📲 `Firmware` - OxygenOS 16.0.7
   - 💪 `Rooted` - Yes 
-  - ⚡ `Terminal application & Shell` - Termux with bash and my [**Termux-setup**](https://github.com/Zalexanninev15/Fiery-Linux/blob/main/Termux-setup.sh)
+  - ⚡ `Terminal application & Shell` - Termux with bash and my [Termux Setup](https://codeberg.org/Zalexanninev15/Fiery-Linux/src/branch/main/Termux-setup.sh). The [repository](https://codeberg.org/Zalexanninev15/Fiery-Linux) also contains scripts and my configs, which are used on an ongoing basis. Almost all of my configs are [located here](https://codeberg.org/Zalexanninev15/Scripts-and-snippets/src/branch/main/MyConfigs), in another repository.
 
 ## 🔤 Languages
 
@@ -92,7 +87,6 @@ I can't believe it... I almost don't program myself anymore, many projects were 
 
 - 🇬🇧 English
 - 🇷🇺 Russian
-- 🇯🇵 Japanese (sometimes I try, but it doesn't really work out)
 
 ### 📖 Experience
 
