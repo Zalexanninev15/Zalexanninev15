@@ -59,12 +59,14 @@ I can't believe it... I almost don't program myself anymore, many projects were 
 > I've been without a computer for almost half a month, because the last upgrade ended in a catastrophic failure. I am currently waiting for the components to be upgraded from the current platform (LGA1200) to the new one (AM5). There are also some plans to upgrade my smartphone and buy a MacBook (on M2-M4,It's not so easy to find cheap 16GB options), but that's another story.
 
 - 🖥️ `Computer`
-  - 🏿 `CPU` - MD Ryzen 5 7500f
-  - 🐏 `RAM` - 16GB DDR5 (SO-DIMM to DIMM)
+  - 🏿 `CPU` - AMD Ryzen 5 7500f (if you're interested, this is an early revision)
+  - 🐏 `RAM` - DDR5 16GB (SO-DIMM to DIMM)
   - 🗂 `GPU` - ASUS Dual RTX 5060 Ti 16GB OC Edition
+  - 🥋 `Motherboard` - MSI MAG B850 TOMAHAWK MAX WIFI
+  - 🏡 `Case` - LIAN LI LANCOOL 217 (complete revision with wooden inserts)
   - 💾 `Storage` - ARDOR GAMING Ally [ALMA512-ALG41284], 3,5" HDD x2, 2,5" SSD
   - 🖱 `Mouse` - Attack Shark X6
-  - ⌨️ `Keyboard` - NuPhy Air75 V3 (ASCII version)
+  - ⌨️ `Keyboard` - NuPhy Air75 V3 (ASCII revision)
   - 🎮 `Gamepad` - Flydigi Vader 4 Pro
   - 🖥️ `Display` - Xiaomi G24i (revision G24 with IPS and 180 Hz)
   - 🖳 `Operating System` - Windows 11 (25H2) for Home, Ubuntu 24.04 with KDE 6 for Work, Ubuntu 24.04 for WSL
@@ -73,9 +75,9 @@ I can't believe it... I almost don't program myself anymore, many projects were 
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV, PostgreSQL
 - 🌐 `Browser` - Vivaldi, Helium, Firefox
 - ⌨️ `Terminal application` - Windows Terminal, Kitty on Linux
-- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, OBS Studio, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop, Syncthing (and [SyncApp on Android](https://github.com/siddarthkay/syncup)), Thunderbird (Linux)
 - ⚡ `Shell` - PowerShell 7, WSL (bash), CMD, zsh on Linux
-- 🤳 `Mobile Phone` - OnePlus 15 (Global version)
+- 🤳 `Mobile Phone` - OnePlus 15 (Global revision)
   - 📱 `Operating System` - Android 16
   - 📲 `Firmware` - OxygenOS 16.0.7
   - 💪 `Rooted` - Yes 
