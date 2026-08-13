@@ -75,7 +75,7 @@ I can't believe it... I almost don't program myself anymore, many projects were 
 - 🛢 `Database` - SQlite (and SQLiteStudio for editing), EmEditor for CSV, PostgreSQL
 - 🌐 `Browser` - Vivaldi, Helium, Firefox
 - ⌨️ `Terminal application` - Windows Terminal, Kitty on Linux
-- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop, Syncthing (and [SyncApp on Android](https://github.com/siddarthkay/syncup)), Thunderbird (Linux)
+- 🤝 `Other` - uBlock Origin, BleachBit, Media Player Classic Qute Theater (mpc-qt), MPC-BE, qBitTorrent, ADB AppControl [Extended version] for Windows, 7-Zip, WinRAR, Ark (Linux), PeaZip, Total Commander (my build), Win 10 Tweaker [Pro], MobaXterm, FileZilla, GitHub Desktop, btop, Syncthing (and [SyncApp on Android](https://github.com/siddarthkay/syncup)), Thunderbird (Linux), Obsidian, Simplenote, Spotify
 - ⚡ `Shell` - PowerShell 7, WSL (bash), CMD, zsh on Linux
 - 🤳 `Mobile Phone` - OnePlus 15 (Global revision)
   - 📱 `Operating System` - Android 16
